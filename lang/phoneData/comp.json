@@ -1,0 +1,46 @@
+{
+  "flexible": {
+    "title_1": " <span class='yel'>Our Competitiven</span>ess",
+    "title_2": " <span class='yel'>in Advanced Printed Circuit B</span>oards",
+    "img": [
+      "./img/home_img7_mobile.webp",
+      "./img/home_img8_mobile.webp",
+      "./img/home_img9_mobile.webp",
+      "./img/home_img10_mobile.webp"
+    ],
+    "title": ["Featured Products", "Technology", "Main Materials", "Markets"],
+    "ul": [
+      [
+        "Rigid-Flex PCB",
+        "HDI PCB",
+        "Multilayer PCB",
+        "IC-Load board (QFN)",
+        "LCP 5G optical module",
+        "Ceramic PCB, MCPCB"
+      ],
+      [
+        "Free DFX services",
+        "Design for manufacture (DFM)",
+        "Design for assembly (DFA)",
+        "Design for test (DFT)",
+        "Free Samples for Batch Order"
+      ],
+      [
+        "Special material",
+        "Rogers, Teflon",
+        "Arlon, Isola",
+        "Bergquist, Kapton",
+        "Panasonic, Taconic",
+        "Dupont, Taiflex"
+      ],
+      [
+        "National Defense",
+        "Research Institute",
+        "Aerospace",
+        "Communications",
+        "Industrial electronics",
+        "Medical electronics"
+      ]
+    ]
+  }
+}
