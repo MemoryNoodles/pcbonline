@@ -1,0 +1,63 @@
+{
+    "datad":{
+        "firsttitle":["PI Laminates (non-FR4)"],
+        "subtitle":["Manufacturers","Laminate Models","TG (°C)","Dk (1MHz)","CTE (Z-axis)"],
+        "cells":[
+            {
+                  "title":"Arlon",
+                   "subtitle":[
+                   
+                    {
+                        "title":"85N",
+                        "cells":["250 (TMA, IPC TM-650 2.4.24)","4.2 @ 1MHz, IPC TM-650 2.5.5.3","1.2% (IPC TM-650 2.4.24, 50-260°C)"]
+                    },
+                    {
+                        "title":"85NT",
+                        "cells":["250 (TMA, IPC TM-650 2.4.24C)","3.6 @ 1MHz, IPC TM-650 2.5.5.3","2.3% (IPC TM-650 2.4.24C, 50-260°C)"]
+                    },
+                    {
+                        "title":"35N",
+                        "cells":["250 (TMA, IPC TM-650 2.4.24C)","4.2 @ 1MHz, IPC TM-650 2.5.5.3","1.2% (IPC TM-650 2.4.24C, 50-260°C)"]
+                    },
+                    {
+                        "title":"33N",
+                        "cells":["250 (TMA, IPC TM-650 2.4.24C)","4.25 @ 1MHz, IPC TM-650 2.5.5.3","1.2% (IPC TM-650 2.4.24C, 50-260°C)"]
+                    }
+                  
+                   ]
+
+            }
+            ,{
+            
+                  "title":"Ventec",
+                   "subtitle":[
+                   
+                    {
+                        "title":"VT-90H",
+                        "cells":[  "250 (TMA, IPC TM-650 2.4.24)","4.05 @ 1GHz, IPC-TM-650 2.5.5.9","1.2% (IPC-TM-650 2.4.24, 50-260°C)"]
+                    },
+                    {
+                        "title":"VT-901",
+                        "cells":["250 (TMA, IPC TM-650 2.4.24)","4.05 @ 1GHz, IPC-TM-650 2.5.5.9","1.4% (IPC-TM-650 2.4.24, 50-260°C)"]
+                    }
+                   ]
+
+            },
+            {
+                  "title":"Nelco",
+                   "subtitle":[
+                   
+                    {
+                        "title":"N7000-2 HT",
+                        "cells":["260 (DSC)","3.5 @ 10 GHz","N/A"]
+                    },
+                    {
+                        "title":"N7000-2 V0",
+                        "cells":["Supplier doesn't display the laminate. Contact PCBONLINE to know laminate details."]
+                    }
+                   ]
+
+            }
+        ]
+    }
+}
