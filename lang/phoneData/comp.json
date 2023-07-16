@@ -3,10 +3,10 @@
     "title_1": " <span class='yel'>Our Competitiven</span>ess",
     "title_2": " <span class='yel'>in Advanced Printed Circuit B</span>oards",
     "img": [
-      "./img/home_img7_mobile.webp",
-      "./img/home_img8_mobile.webp",
-      "./img/home_img9_mobile.webp",
-      "./img/home_img10_mobile.webp"
+      "./img/home_img7.webp",
+      "./img/home_img8.webp",
+      "./img/home_img9.webp",
+      "./img/home_img10.webp"
     ],
     "title": ["Featured Products", "Technology", "Main Materials", "Markets"],
     "ul": [

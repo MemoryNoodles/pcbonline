@@ -1,3 +1,8 @@
+/*! https://mths.be/punycode v1.4.1 by @mathias */
+
+/*! safe-buffer. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
+
 /*
 object-assign
 (c) Sindre Sorhus
@@ -33,11 +38,6 @@ object-assign
  * (c) 2021 Evan You
  * @license MIT
  */
-
-
-/*! https://mths.be/punycode v1.4.1 by @mathias */
-
-/*! safe-buffer. MIT License. Feross Aboukhadijeh <https://feross.org/opensource> */
 
 
 /*!
