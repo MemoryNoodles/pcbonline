@@ -1,6 +1,0 @@
-# robots.txt generated at https://www.pcbonline.com
-User-agent: *
-Allow:/
-Sitemap:https://www.pcbonline.com/sitemap.xml
-Sitemap:https://www.pcbonline.com/seo-blog/sitemap.xml
-Sitemap:https://www.pcbonline.com/seo-feedback/sitemap.xml
