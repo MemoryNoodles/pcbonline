@@ -1,0 +1,24 @@
+{
+  "flexible": {
+    "title_1": " <span class='yel'>Hear from Our Clie</span>nts",
+    "img": [
+      "./img/home_img11.png",
+      "./img/home_img12.png",
+      "./img/home_img13.png",
+      "./img/home_img14.webp"
+    ],
+    "name": ["Sean Wood", "Jim Klitzing", "Yossi Osroosh, Ph.D.", "Shane Kent"],
+    "desc": [
+      "supply chain supervisor",
+      "communications scientist",
+      "engineer",
+      "sales engineer"
+    ],
+    "txt": [
+      "Very impressed with PCBONLINE's Sales team, very polite, very helpful and very knowledgeable. Quick responses to quote requests and EQ's resolved very quickly too. PCB quality was great too, definitely will be coming back with more requests.",
+      "Even though PCBONLINE's price is not the lowest quoted to me, I do intend to order these boards from them; part of the reason is how well they handle their customers, and this gives me some confidence that their fab will do well with that one.",
+      "I have to say I'm quite impressed by the quality of work PCBONLINE guys have carried out! The panelizing also came as a surprise to me and was beautifully done. I’ve also noticed that they do 4-layer boards at a price lower than most of their competitors.",
+      "The quality of the boards and assemblies that PCBONLINE has provided me rivals the quality of some of the highest quality fabricators in both the USA and Canada. And I am impressed by their high level of responsiveness and care for the end product's quality."
+    ]
+  }
+}

@@ -1,0 +1,1495 @@
+{"datad":{
+    "rigidFlex":{
+        "table":[
+            {   "title":"PCBONLINE's Rigid Flex PCB Capabilities",
+                "spec":"Flex PCB layer number",
+                "cap":"1 to 6"
+            },
+            {
+                "spec":"Rigid-flex PCB layer number",
+                "cap":"2 to 30"
+            },
+            {
+                "spec":"Build time",
+                "cap":"1 day to 4 weeks"
+            },
+            {
+                "spec":"Board size",
+                "cap":"Min. 4mm * 4mm to Max. 457mm * 610mm"
+            },
+            {
+                "spec":"Final board thickness",
+                "cap":"0.05mm to 0.6mm"
+            },
+             {
+                "spec":"Materials",
+                "cap":"Polyimide or polyester, FR4 of any Tg, RA copper or HTE copper, and adhesive"
+            },
+            {
+                "spec":"PCB thickness in flex section",
+                "cap":"0.01mm to 0.1mm"
+            },
+            {
+                "spec":"PCB assembly Min. pitch",
+                "cap":"0.35mm"
+            },
+            {
+                "spec":"HDI PCB stack-up",
+                "cap":"1+N+1, 2+N+2, 3+N+3, 4+N+4"
+            },
+             {
+                "spec":"Aspect ratio",
+                "cap":"3:1"
+            },
+            {
+                "spec":"PCB copper thickness",
+                "cap":"1/3oz to 3oz"
+            },
+            {
+                "spec":"Min. trace width/space",
+                "cap":"1.6mil/1.6mil"
+            },
+            {
+                "spec":"Min. mechanical drilling Ø",
+                "cap":"6mil"
+            },
+            {
+                "spec":"PTH size tolerance",
+                "cap":"PTH: ±2mil, NPTH: ±1mil"
+            },
+            {
+                "spec":"PTH position tolerance",
+                "cap":"±2mil"
+            },
+            {
+                "spec":"Surface finishes",
+                "cap":"ENIG (immersion gold): Au 1µ to 5µ\", Ni 80µ to 200µ\"<br>OSP, lead-free HASL,<br>Immersion tin: 0.8µm to 1.2µm<br>Immersion silver: 0.15µm to 0.45µm<br>Hard gold plating: Au 1µ to 50u\", Ni 80µ to 200µ\""
+            }
+            
+            
+        ]
+    },
+    "highTg":{
+        "table":[
+            {
+                "title":"PCBONLINE's High Tg PCB Capabilities",
+                "spec":"PCB layers",
+                "cap":"1 to 64"
+            },
+            
+            {
+                "spec":"Tg Values",
+                "cap":"180℃, 185℃, 190℃, 200℃... 700℃"
+            },
+            {
+                "spec":"build time",
+                "cap":"1 day to 4 weeks"
+            },
+             {
+                "spec":"Final board thickness",
+                "cap":"0.05mm to 3.2mm"
+            },
+            
+             {
+                "spec":"Board size",
+                "cap":"Min. 4mm * 4mm to Max. 460mm * 610mm"
+            },
+            {
+                "spec":"HDI capabilities",
+                "cap":"1+N+1, 2+N+2, 3+N+3, 4+N+4"
+            },
+            {
+                "spec":"High Tg Isola laminates",
+                "cap":"FR408, FR408HR, FR370HR, IS410"
+            },
+            {
+                "spec":"High Tg Shengyi laminates",
+                "cap":"S1000-2, S1000-2M, S1190, S7439"
+            },
+             {
+                "spec":"High Tg Nelco laminates",
+                "cap":"N4000-12, N4000-13/13SI,<br> N4000-13EP/EPSI, N4000-29,<br> N4380-13RF, N4350-13RF,<br> N4800-20/20SI, N7000-2 HT"
+            },
+            {
+                "spec":"High Tg Rogers laminates",
+                "cap":"RO4305B, RO4003C, RO4835, RO4833"
+            },
+            {
+                "spec":"High Tg ITEQ laminates",
+                "cap":"IT-150DATC, IT-200LKTC, IT-180I"
+            },
+            {
+                "spec":"High Tg TUC laminates",
+                "cap":"TU-872 SLK, TU-768, TU-872 SLK sp"
+            },
+            {
+                "spec":"Other High Tg laminates",
+                "cap":"R5775, V-47, NP-180"
+            }
+            
+            
+            
+        ]
+    },
+    "multiLayer":{
+        
+        "table":[
+            
+            {   "title":"PCBONLINE's Multilayer PCB Capabilities",
+                "spec":"PCB layers",
+                "cap":"4 to 60"
+            },
+            {
+                "spec":"Build time",
+                "cap":"1 day to 4 weeks"
+            },
+            {
+                "spec":"Final board thickness",
+                "cap":"0.15mm to 3.2mm"
+            },
+            {
+                "spec":"Materials",
+                "cap":"FR4, polyimide, aluminum, ceramics, PTFE"
+            },
+             {
+                "spec":"Tg (FR4 multilayer PCB)",
+                "cap":"135°C, 150°C, 160°C, 170°C, 180°C, 185°C..."
+            },
+            
+             {
+                "spec":"Aspect Ratio",
+                "cap":"(laser drill) 3:4<br> (PTH) 10:1"
+            },
+            {
+                "spec":"Min. drill bit size",
+                "cap":"8mil"
+            },
+            {
+                "spec":"HDI stackup",
+                "cap":"1+N+1, 2+N+2, 3+N+3 (with copper filling)"
+            },
+            {
+                "spec":"Line/space",
+                "cap":"(inner layers)2.5mil/2.5mil<br>(external layers)2.5mil/2.5mil"
+            },
+             {
+                "spec":"Copper thickness",
+                "cap":"1/3oz to 6oz"
+            },
+            {
+                "spec":"Warpage",
+                "cap":"0.5%"
+            },
+            {
+                "spec":"Punching profile",
+                "cap":"±3mil"
+            },
+            {
+                "spec":"Hole size tolerance",
+                "cap":"PTH: ±3mil, NPTH: ±2mil"
+            },
+            {
+                "spec":"Hole position tolerance",
+                "cap":"±2mil"
+            },
+            {
+                "spec":"Routing tolerance",
+                "cap":"±4mil"
+            },
+            {
+                "spec":"Single-ended impedance",
+                "cap":"±10%"
+            },
+            {
+                "spec":"Differential control",
+                "cap":"±10%"
+            },
+            {
+                "spec":"Surface Finish",
+                "cap":"HASL: SMD 40µ to 2000µ\", GND 30µ to 800µ\"<br>ENIG: Au 1µ to 5µ\", Ni 80µ to 200µ\"<br>Immersion tin: 0.8µm to 1.2µm<br>Immersion silver: 0.15µm to 0.45µm<br>Hard gold plating: Au 1µ to 50µ\", Ni 80µ to 200µ\"<br>Peelable mask: 5mil<br>Carbon ink: 0.3mil"
+            }
+            
+            
+            
+        ]
+    },
+    "thickCopper":{
+        
+        "table":[
+            
+            {   "title":"PCBONLINE's Heavy Copper PCB Capabilities",
+                "spec":"Layers",
+                "cap":"1 to 10 layers"
+            },
+            {
+                "spec":"PCB copper thickness",
+                "cap":"3oz to 14oz"
+            },
+            
+             {
+                "spec":"Trace width/space",
+                "cap":"3oz - 6.5mil/6.5mil<br>4oz - 8mil/8mil<br>5oz - 9.5mil/9.5mil<br>6oz - 11mil/11mil<br>7oz - 12.5mil/12.5mil<br>8oz - 14mil/14mil<br>9oz - 15.5mil/15.5mil<br>10oz - 17mil/17mil<br>11oz - 18.5mil/18.5mil<br>12oz - 21mil/21mil<br>13oz - 22.5mil/22.5mil<br>14oz - 24mil/24mil"
+            },
+            {
+                "spec":"Build time",
+                "cap":"1 day to 4 weeks"
+            },
+            {
+                "spec":"Final board thickness",
+                "cap":"0.5mm to 8mm"
+            },
+            
+             {
+                "spec":"Solder mask",
+                "cap":"Electrostatic spray solder mask"
+            },
+            {
+                "spec":"Circuit etching tolerance",
+                "cap":"±5%"
+            },
+            {
+                "spec":"Solder mask color",
+                "cap":"Green, black, blue, white, red, mink, yellow"
+            },
+            {
+                "spec":"Surface Finish",
+                "cap":"HASL: SMD 40µ to 2000µ\", GND 30µ to 800µ\"<br>ENIG: Au 1µ to 5µ\", Ni 80µ to 200µ\"<br>Immersion tin: 0.8µm to 1.2µm<br>Immersion silver: 0.15µm to 0.45µm<br>Hard gold plating: Au 1µ to 50µ\", Ni 80µ to 200µ\"<br>Peelable mask: 5mil<br>Carbon ink: 0.3mil"
+            }          
+            
+            
+        ]
+    },
+    "flexible":{
+        
+        "table":[
+            
+            {   "title":"PCBONLINE's Flexible PCB Capabilities",
+                "spec":"Layer number",
+                "cap":"PI FPC: 1 to 10<br>PET clear FPC: 1 to 6"
+            },
+            {
+                "spec":"Build time",
+                "cap":"1 day to 4 weeks"
+            },
+            {
+                "spec":"Types of FPC boards",
+                "cap":"Single-sided, doudle-sided, clear flexible PCBs, single-layer, dual-layer, multilayer, semi-flex, HDI, hybrid-laminated, and heavy-copper"
+            },
+            {
+                "spec":"Flexible PCB materials",
+                "cap":"PI or PET, and rolled annealed (RA) copper or electro deposited (ED) copper (adhesive is optional)"
+            },
+             {
+                "spec":"Final board thickness",
+                "cap":"0.05mm to 0.35mm<br>(regular thickness is 0.2mm)"
+            },
+            
+             {
+                "spec":"Minimum trace width/space",
+                "cap":"1.6mil/1.6mil"
+            },
+            {
+                "spec":"Copper thickness",
+                "cap":"25μm to 3oz"
+            },
+            {
+                "spec":"Minimum drill bit size",
+                "cap":"6mil"
+            },
+            {
+                "spec":"Coverlay",
+                "cap":"Line to PAD registration, 6mil ±2mil"
+            },
+             {
+                "spec":"Profile tolerance",
+                "cap":"(punching) ±3mil<br>(laser cutting) ±2mil"
+            },
+            {
+                "spec":"Hole size tolerance",
+                "cap":"(PTH) ±3mil<br>(NPTH) ±2mil"
+            },
+            {
+                "spec":"Hole position tolerance",
+                "cap":"±3mil"
+            },
+            {
+                "spec":"Impedance control",
+                "cap":"50Ω ±5Ω, 90Ω ±9Ω, 100Ω ±10Ω"
+            },
+            {
+                "spec":"Microvia aspect ratio",
+                "cap":"3:1"
+            },
+            {
+                "spec":"PCB stiffeners",
+                "cap":"PI, FR4, and stainless steel"
+            },
+            {
+                "spec":"Surface Finish",
+                "cap":"ENIG: Au 1µ\" to 3µ\", Ni 120µ\" to 200µ\"<br>OSP: 0.25µm to 0.5µm<br>carbon ink<br>Immersion tin: 0.5µm to 1µm<br>Immersion silver: 0.05µm to 0.12µm<br>Hard gold plating: Au 5µ\" to 40µ\", Ni 120µ\" to 200µ\""
+            }
+            
+           
+            
+            
+            
+        ]
+    },
+    "led":{
+        
+        "table":[
+            
+            {   "title":"PCBONLINE's LED PCB Capabilities",
+                "spec":"PCB layers",
+                "cap":"FR4 LED PCB: 1 to 24<br>Aluminum LED PCB: 1 to 4<br>Copper LED PCB: 1 to 8<br>Flexible PI LED PCB: 1 to 8<br>Ceramic LED PCB: 1 to 4<br>Glass LED PCB: 1<br>Clear flex LED PCB: 1 to 6"
+            }, 
+            {
+                "spec":"Build time",
+                "cap":"1 day to 4 weeks"
+            },
+            {
+                "spec":"LED PCB Substrates",
+                "cap":"Aluminum, FR4, copper, ceramic, polyimide, polyester, and glass"
+            },
+            {
+                "spec":"LED power sources we support",
+                "cap":"DOB (driver-on-board), AD/DC"
+            },
+             {
+                "spec":"LED Chip Assembly",
+                "cap":"COB (wire bonding and flip-chip assembly), SMT"
+            },
+            
+             {
+                "spec":"Customizable light parameters",
+                "cap":"Lumen, wavelength, color (set according to X, Y coordinates)..."
+            },
+            {
+                "spec":"Other PCB parts we can assemble",
+                "cap":"Induction chip, capacitor, resistor, control module..."
+            },
+            {
+                "spec":"Aluminum LED PCB thermal conductivity",
+                "cap":"1-9W/mK"
+            },
+            {
+                "spec":"Aluminum LED PCB testing",
+                "cap":"TO220 - TCB8"
+            },
+             {
+                "spec":"Glass LED PCB transmittance",
+                "cap":"77% to 85.63%"
+            },
+            {
+                "spec":"Glass LED PCB thermal transparency",
+                "cap":"60% to 76.86%"
+            },
+            {
+                "spec":"Clear LED FPC maximum size",
+                "cap":"600mm * 600mm"
+            },
+
+            {
+                "spec":"Clear LED FPC minimum track width/space",
+                "cap":"0.05mm/0.05mm (0.035mm/0.035mm for sample)"
+            },
+            {
+                "spec":"Clear LED FPC surface finish",
+                "cap":"Immersion silver, immersion tin"
+            },
+            {
+                "spec":"Offer free LED PCB design",
+                "cap":"Induction color change, color change, frequency switch..."
+            }
+            
+           
+            
+            
+            
+        ]
+    },
+    "free":{
+        
+        "table":[
+            
+            {   "title":"PCBONLINE's Lead-Free PCB Capabilities",
+                "spec":"Layers",
+                "cap":"1 to 60 (No limit)"
+            },
+            {
+                "spec":"Build time",
+                "cap":"1 day to 4 weeks"
+            },
+            {
+                "spec":"PCB quantity",
+                "cap":"Prototype, batch production, no quantity limit"
+            },
+            {
+                "spec":"Lead-free PCBs we make",
+                "cap":"Flexible, rigid-flex, aluminum, FR4, ceramic, HDI, high-frequency, thick-copper, carbon ink PCBs"
+            },
+             {
+                "spec":"Surface Finish",
+                "cap":"Lead-free HASL<br>ENIG: Au 1µ\" to 3µ\", Ni 120µ\" to 200µ\"<br>OSP: 0.25µm to 0.5µm<br>Immersion tin: 0.5µm to 1µm<br>Immersion silver: 0.05µm to 0.12µm<br>Hard gold plating: Au 5µ\" to 40µ\", Ni 120µ\" to 200µ\""
+            },
+            
+             {
+                "spec":"Lead-free assembly",
+                "cap":"All our PCBA lines are only for lead-free uses"
+            },
+            {
+                "spec":"PCB/PCBA Inspections",
+                "cap":"Flying probe, four-terminal sensing, SPI, X-ray, AOI, first-piece test, functional test, thermal aging"
+            },
+            {
+                "spec":"Solder flex we use",
+                "cap":"305 (3% silver, 0.5% copper, 96.5% tin)<br>0307 (0.3% silver, 0.7% copper, 99% tin)<br>mid-temperature(1% silver, 35% bismuth, 64% tin)<br>low temperature (58% bismuth, 42% tin)"
+            },
+            {
+                "spec":"Reflow solder peak temperature",
+                "cap":"255°C"
+            },
+             {
+                "spec":"Lead (Pb) concentration",
+                "cap":"< 0.1%"
+            },
+            {
+                "spec":"Mercury (Hg) concentration",
+                "cap":"< 0.1%"
+            },
+            {
+                "spec":"Cadmium (Cd) concentration",
+                "cap":"< 0.1%"
+            },
+            {
+                "spec":"Hexavalent chromium (Cr 6+) concentration",
+                "cap":"< 0.1%"
+            },
+            {
+                "spec":"Polybrominated biphenyls (PBBS) concentration",
+                "cap":"< 0.1%"
+            },
+            {
+                "spec":"Polybrominated diphenyl ether (PBDE) concentration",
+                "cap":"< 0.1%"
+            }
+           
+            
+            
+            
+        ]
+    },
+    "carbon":{
+        
+        "table":[
+            
+            {   "title":"PCBONLINE's Carbon Ink PCB Capabilities",
+                "spec":"Layers",
+                "cap":"1 to 60 (No layer limit)"
+            },
+            {
+                "spec":"Build time",
+                "cap":"1 day to 4 weeks"
+            },
+            {
+                "spec":"PCB quantity",
+                "cap":"Prototype, batch production, no quantity limit"
+            },
+            {
+                "spec":"Carbon ink alignment tolerance (1oz copper)",
+                "cap":"Carbon to carbon: 8mil<br>Carbon to PAD: 6mil<br>Carbon to line: 6mil"
+            },
+             {
+                "spec":"Carbon ink alignment tolerance (2oz copper)",
+                "cap":"Carbon to carbon: 10mil<br>Carbon to PAD: 8mil<br>Carbon to line: 8mil"
+            },
+            
+             {
+                "spec":"Carbon ink alignment tolerance (3oz copper)",
+                "cap":"Carbon to carbon: 12mil<br>Carbon to PAD: 10mil<br>Carbon to line: 10mil"
+            },
+            {
+                "spec":"Single-sided carbon ink type and resistance",
+                "cap":"CCI-301D, ≥250Ω"
+            },
+            {
+                "spec":"Double-sided carbon ink type and resistance",
+                "cap":"T-30PL-30, ≥250Ω"
+            },
+            {
+                "spec":"Single/double-sided carbon ink type and resistance",
+                "cap":"CCI-301F, <250Ω"
+            },
+             {
+                "spec":"Surface finishes on carbon ink PCB pads",
+                "cap":"Carbon ink<br>Immersion gold then carbon ink<br>Carbon ink then immersion silver<br>Carbon ink then immersion tin"
+            },
+            {
+                "spec":"Selective surface finishes on other PCB pads",
+                "cap":"HASL: SMD 40µ to 2000µ\", GND 30µ to 800µ\"<br>ENIG: Au 1µ to 5µ\", Ni 80µ to 200µ\"<br>Immersion tin: 0.8µm to 1.2µm<br>Immersion silver: 0.15µm to 0.45µm<br>Hard gold plating: Au 1µ to 50µ\", Ni 80µ to 200µ\"<br>Peelable mask: 5mil<br>Carbon ink: 0.3mil"
+            }
+            
+            
+           
+            
+           
+            
+            
+            
+        ]
+    },
+    "ceramic":{
+        
+        "table":[
+            
+            {   "title":"PCBONLINE's Ceramic PCB Capabilities",
+                "spec":"Layers",
+                "cap":"1, 2, 4"
+            },
+            {
+                "spec":"Build time",
+                "cap":"1 day to 4 weeks"
+            },
+            {
+                "spec":"Ceramic substrates",
+                "cap":"AlN (aluminum nitride), Al₂O₃ (alumina), SiC, BeO, Si₃N₄ (silicon nitride), and ceramic hybrid materials"
+            },
+            {
+                "spec":"Maximum PCB size",
+                "cap":"138mm * 190mm"
+            },
+             {
+                "spec":"Finished board thickness",
+                "cap":"0.25mm, 0.38mm, 0.5mm, 0.76mm, 0.8mm, 1mm, 1.5mm, 2mm"
+            },
+            
+             {
+                "spec":"Size tolerance",
+                "cap":"≤±50μm"
+            },
+            {
+                "spec":"Trace width/space",
+                "cap":"5-10μm: 0.05mm/0.05mm<br>HOZ: 0.075mm/0.075mm<br>1OZ: 0.1mm/0.1mm<br>2OZ: 0.127mm/0.127mm<br>3OZ: 0.3mm/0.3mm<br>6OZ: 0.5mm/0.5mm<br>9OZ: 0.6mm/0.6mm"
+            },
+            {
+                "spec":"Copper thickness",
+                "cap":"2μm to 105μm (DPC)<br>150μm to 300μm (DBC)"
+            },
+            {
+                "spec":"Solderability",
+                "cap":">95% (IPC-TM-650 2.4.14)"
+            },
+             {
+                "spec":"Surface finish",
+                "cap":"OSP, immersion silver, immersion gold, nickel palladium gold"
+            },
+            {
+                "spec":"Hole diameter tolerance",
+                "cap":"PTH:±0.075mm<br>NPTH:±0.05mm"
+            },
+            {
+                "spec":"Minimum laser drill diameter",
+                "cap":"75μm"
+            }
+            
+            
+           
+            
+           
+            
+            
+            
+        ]
+    },
+    "halogen":{
+        
+        "table":[
+            
+            {   "title":"PCBONLINE's Halogen-Free PCB Capabilities",
+                "spec":"Layers",
+                "cap":"1 to 64 layers (no layer limit)"
+            },
+            {
+                "spec":"Build time",
+                "cap":"1 day to 4 weeks"
+            },
+            {
+                "spec":"Halogen-free PCB laminates",
+                "cap":"Shengyi S1165/S1165M, S0165<br>Isola DE156, GreenSpeed®<br>TUC TU883<br>ITEQ IT140G, IT170G<br>Ventec VT-447<br>..."
+            },
+            {
+                "spec":"Halogen-free PCB substrate",
+                "cap":"FR4, aluminum, Teflon, ceramic, polyimide, copper"
+            },
+             {
+                "spec":"Finished board thickness",
+                "cap":"0.15mm to 3.2mm"
+            },
+            
+             {
+                "spec":"PCB copper thickness",
+                "cap":"1/3oz to 6oz"
+            },
+            {
+                "spec":"Halogen-free FR4 Tg",
+                "cap":"135°C, 150°C, 160°C, 170°C, 180°C, 185°C..."
+            },
+            {
+                "spec":"Minimum trace width/space",
+                "cap":"1.6mil/1.6mil"
+            },
+            {
+                "spec":"HDI stack-up",
+                "cap":"1+N+1, 2+N+2, 3+N+3, 4+N+4"
+            },
+             {
+                "spec":"Surface finish",
+                "cap":"OSP, immersion silver, immersion gold, nickel palladium gold, ENIG, immersion tin, carbon ink, peelable mask"
+            },
+            {
+                "spec":"Halogen-free standard",
+                "cap":"IEC 61249-2-21, JS709C"
+            }
+            
+            
+           
+            
+           
+            
+            
+            
+        ]
+    },
+    "alum":{
+        
+        "table":[
+            
+            {   "title":"PCBONLINE's Aluminum PCB Capabilities",
+                "spec":"Layers",
+                "cap":"Rigid aluminum PCB: 1, 2, and 4<br>Flex aluminum PCB: 1"
+            },
+            {
+                "spec":"Build time",
+                "cap":"1 day to 4 weeks"
+            },
+            {
+                "spec":"Aluminum PCB types",
+                "cap":"Single-sided, double-sided, flexible aluminum PCB, 1-layer, 2-layer, and 4-layer"
+            },
+            {
+                "spec":"Quality level",
+                "cap":"IPC-A-600 Class 3/2/1"
+            },
+             {
+                "spec":"Price",
+                "cap":"Free sample and $30 per square meter for bulk orders"
+            },
+            
+             {
+                "spec":"Thermal conductivity",
+                "cap":"1W/mK to 9W/mK"
+            },
+            {
+                "spec":"Aluminum PCB substrate material",
+                "cap":"3003 (pure aluminum)<br>5052 (Al-Mg alloy)<br>6061 (Al-Mg-Si alloy)<br>1100 (pure aluminum)"
+            },
+            {
+                "spec":"Dielectric layer material",
+                "cap":"Polymer filled with ceramic"
+            },
+            {
+                "spec":"Copper thickness",
+                "cap":"1oz to 4oz (35μm to 140μm)<br>(Flex aluminum PCB: 0.5oz to 1oz)"
+            },
+             {
+                "spec":"Manufacturing condition",
+                "cap":"Full-line operation production machines and equipment specialized for aluminum PCBs"
+            },
+            {
+                "spec":"Surface finish",
+                "cap":"ENIG, OSP, LF HASL, immersion tin, immersion silver, immersion gold<br>(Only OSP for flex aluminum PCB)"
+            }
+            
+            
+           
+            
+           
+            
+            
+            
+        ]
+    },
+    "freq":{
+        
+        "table":[
+            
+            {   "title":"PCBONLINE's High-Frequency PCB Capabilities",
+                "spec":"Layers",
+                "cap":"4 to 24 layers"
+            },
+            {
+                "spec":"Build time",
+                "cap":"1 day to 4 weeks"
+            },
+            {
+                "spec":"High-frequency PCB types",
+                "cap":"6GHz to 24GHz PCBs, 70GHz PCBs, embedded antenna PCBs, ceramic hybrid base high-frequency PCBs, PTFE-based high-frequency PCBs"
+            },
+            {
+                "spec":"Finished PCB thickness",
+                "cap":"0.5mm, 0.8mm, 1.0mm, 1.2mm, 1.6mm"
+            },
+             {
+                "spec":"Base copper thickness",
+                "cap":"Normally 0.5oz and 1.0oz"
+            },
+            
+             {
+                "spec":"Conductor width control",
+                "cap":"±0.02mm"
+            },
+            {
+                "spec":"Maximum impedance control tolerance",
+                "cap":"2%"
+            },
+            {
+                "spec":"Thermal conductivity",
+                "cap":"1W/mK to 9W/mK"
+            },
+            {
+                "spec":"PCB vias we can drill",
+                "cap":"Blind vias, overlapping vias, staggered vias, skip vias, buried vias"
+            },
+             {
+                "spec":"Thermal stress",
+                "cap":"10 seconds at 288°C"
+            },
+            {
+                "spec":"Permittivity",
+                "cap":"ε2.1 to ε10.0"
+            },
+            {
+                "spec":"Punching or routing tolerance",
+                "cap":"±0.10mm to 0.13mm"
+            },
+            {
+                "spec":"Hole wall copper",
+                "cap":"≥ 20μм"
+            },
+            {
+                "spec":"Solder mask ink",
+                "cap":"Taiyo PSR4000, Tamura DSR2200"
+            },
+            {
+                "spec":"Solder mask thickness on traces",
+                "cap":"20μm to 30μm"
+            }
+            
+            
+           
+            
+           
+            
+            
+            
+        ]
+    },
+    "proto":{
+        
+        "table":[
+            
+            {   "title":"PCBONLINE's Prototype PCB Capabilities",
+                "spec":"Layers",
+                "cap":"1 to 64 layers"
+            },
+            {
+                "spec":"Build time",
+                "cap":"12 hours to 4 weeks"
+            },
+            {
+                "spec":"PCB Proto types",
+                "cap":"Ceramic-substrate, flexible, rigid-flex, high-frequency, HDI, aluminum-substrate, copper-substrate, carbon-ink"
+            },
+            {
+                "spec":"PCB quality",
+                "cap":"IPC-A-600 Class 3/2"
+            },
+             {
+                "spec":"PCBA quality",
+                "cap":"IPC-A-610 Class 3/2"
+            },
+            
+             {
+                "spec":"PCB prototype quatity",
+                "cap":"0.2㎡"
+            },
+            {
+                "spec":"Final PCB thickness",
+                "cap":"0.05mm to 8mm"
+            },
+            {
+                "spec":"Minimum trace width/space",
+                "cap":"Flex/rigid-flex PCBs: 1.6mil/1.6mil<br>Rigid PCBs: 2.5mil/2.5mil"
+            },
+            {
+                "spec":"HDI stackup",
+                "cap":"1+N+1, 2+N+2, 3+N+3, 4+N+4 (with copper filling)"
+            },
+             {
+                "spec":"Copper thickness",
+                "cap":"Flex/rigid-flex PCBs: 1/3oz to 3oz<br>Rigid PCBs: 1oz to 14oz"
+            },
+            {
+                "spec":"Proto PCB manufacturing condition",
+                "cap":"PCB prototype manufacturing and assembly happen on lines same as bulky production"
+            },
+            {
+                "spec":"Surface finish",
+                "cap":"ENIG: Au 1µ to 5µ\", Ni 80µ to 200µ\"<br>OSP<br>Immersion tin: 0.8µm to 1.2µm<br>Immersion silver: 0.15µm to 0.45µm<br>Hard gold plating: Au 1µ to 50u\", Ni 80µ to 200µ\"<br>Peelable mask: 5mil<br>Carbon ink: 0.3mil"
+            }
+            
+            
+           
+            
+           
+            
+            
+            
+        ]
+    },
+    "hdi":{
+        
+        "table":[
+            
+            {   "title":"PCBONLINE's HDI PCB Capabilities",
+                "spec":"PCB layers",
+                "cap":"4 to 64 layers"
+            },
+            {
+                "spec":"High-density layers",
+                "cap":"Up to 20 layers"
+            },
+            {
+                "spec":"Build time",
+                "cap":"1 day to 4 weeks"
+            },
+            {
+                "spec":"Stackup",
+                "cap":"1+N+1, 2+N+2, 3+N+3, 4+N+4"
+            },
+             {
+                "spec":"HDI via",
+                "cap":"Blind via, buried via, staggered via, stacked via, skip via"
+            },
+            
+             {
+                "spec":"Minimum laser drill diameter",
+                "cap":"0.075mm"
+            },
+            {
+                "spec":"Final PCB thickness",
+                "cap":"0.15mm"
+            },
+            {
+                "spec":"Minimum trace width/space",
+                "cap":"Flex/rigid-flex PCBs: 1.6mil/1.6mil<br>Rigid PCBs: 2.5mil/2.5mil"
+            },
+            {
+                "spec":"Minimum mechanical drill diameter",
+                "cap":"1+N+1, 2+N+2, 3+N+3, 4+N+4 (with copper filling)"
+            },
+             {
+                "spec":"HDI PCB production capability",
+                "cap":"3000m² per day"
+            },
+            {
+                "spec":"Copper thickness",
+                "cap":"100μm to 125μm"
+            },
+            {
+                "spec":"Solderability",
+                "cap":">95% (IPC-TM-650 2.4.14)"
+            },
+            {
+                "spec":"Surface finish",
+                "cap":"Selective surface finish<br>OSP<br>HASL: SMD 40µ to 2000µ\", GND 30µ to 800µ\"<br>ENIG: Au 1µ to 5µ\", Ni 80µ to 200µ\"<br>Immersion tin: 0.8µm to 1.2µm<br>Immersion silver: 0.15µm to 0.45µm<br>Hard gold plating: Au 1µ to 50µ\", Ni 80µ to 200µ\"<br>Peelable mask: 5mil<br>Carbon ink: 0.3mil"
+            }
+            
+            
+           
+            
+           
+            
+            
+            
+        ]
+    },
+    "elc":{
+        
+        "table":[
+            
+            {   "title":"PCBONLINE's Electronic Component Procurement",
+                "spec":"Component sourcing channels",
+                "cap":"Basic components from our warehouse;<br>Military-level components from our Hong Kong supply chain; <br>Special-shaped and custom-made components from our local factories."
+            },
+            {
+                "spec":"PCB parts quantity",
+                "cap":"Start from 1 tray/package/bag, no maximum limit"
+            },
+            {
+                "spec":"PCBA parts procurement period",
+                "cap":"15 days to 30 days"
+            },
+            {
+                "spec":"Passive components",
+                "cap":"Resistors, capacitors, inductors, transformers, replays, keys, speakers, switches, connectors, antennas, sensors, detectors, sockets"
+            },
+             {
+                "spec":"Active components",
+                "cap":"Diodes, triodes, thyristors, ICs, transistors, programmable devices, optoelectronic devices, discharge devices, power sources, vacuum tubes"
+            },
+            
+             {
+                "spec":"Procurement inquiry methods",
+                "cap":"Sending a BOM or PCBA sample, or telling us your plan"
+            },
+            {
+                "spec":"Components quality checks",
+                "cap":"Package inspection, document verification, digital photography, label verification, visual inspection, measurement, IC counterfeit, approval"
+            },
+            {
+                "spec":"Sourcing services",
+                "cap":"24 hours/7 days"
+            },
+            {
+                "spec":"Quality certifications",
+                "cap":"CE, RoHS, UL, TUC, CQC"
+            }
+             
+            
+            
+           
+            
+           
+            
+            
+            
+        ]
+    },
+    "smt":{
+        
+        "table":[
+            
+            {   "title":"PCBONLINE's SMT Stencil Capabilities",
+                "spec":"Framework",
+                "cap":"Framed, frameless"
+            },
+            {
+                "spec":"Stencil thickness",
+                "cap":"0.10mm, 0.12mm, 0.15mm, 0.20mm"
+            },
+            {
+                "spec":"Opening side",
+                "cap":"Single-opening-sided, dual-opening-sided, separate-opening-sided"
+            },
+            {
+                "spec":"Stencil size",
+                "cap":"370mm * 470mm<br>420mm * 520mm<br>400mm * 600mm<br>400mm * 800mm<br>450mm * 550mm<br>550mm * 650mm<br>584mm * 584mm<br>736mm * 736mm"
+            },
+             {
+                "spec":"Opening area size",
+                "cap":"(corresponding to the above size order)<br>190mm * 290mm<br>240mm * 340mm<br>220mm * 400mm<br>220mm * 600mm<br>270mm * 370mm<br>350mm * 380mm<br>380mm * 380mm<br>500mm * 500mm"
+            },
+            
+             {
+                "spec":"Reference point on stencil",
+                "cap":"None, half-drilling, drilling-through"
+            },
+            {
+                "spec":"Finest pitch",
+                "cap":"0.35mm"
+            },
+            {
+                "spec":"Minimum oepning",
+                "cap":"For minimum component 01005 (0.4mm * 0.2mm)"
+            },
+            {
+                "spec":"Stencil material",
+                "cap":"301/304 stainless steel, nickel"
+            },
+             {
+                "spec":"Stencil making technology",
+                "cap":"Laser-cut, electroforming"
+            },
+            {
+                "spec":"SMT Automation",
+                "cap":"Automatic, half-automatic"
+            }
+            
+            
+           
+            
+           
+            
+            
+            
+        ]
+    },
+    "asm":{
+        
+        "table":[
+            
+            {   "title":"PCBONLINE's PCB Assembly Capabilities",
+                "spec":"PCB assembly standard",
+                "cap":"IPC-A-610 Class 2/3"
+            },
+            {
+                "spec":"PCB assembly quantity",
+                "cap":"From 1 to 100,000+"
+            },
+            {
+                "spec":"Finest pitch",
+                "cap":"0.05mm"
+            },
+            {
+                "spec":"Maximum board size",
+                "cap":"1200mm * 370mm"
+            },
+             {
+                "spec":"Minimum panel size",
+                "cap":"50mm * 50mm"
+            },
+            
+             {
+                "spec":"Maximum rectangular part size",
+                "cap":"50mm * 150mm"
+            },
+            {
+                "spec":"Maximum square part size",
+                "cap":"74mm * 74mm"
+            },
+            {
+                "spec":"Maximum component height",
+                "cap":"25mm"
+            },
+            {
+                "spec":"PCB thickness",
+                "cap":"0.08mm to 4mm"
+            },
+             {
+                "spec":"Minimum SMD footprint",
+                "cap":"01005 (0.4mm * 0.2mm)"
+            },
+            {
+                "spec":"PCB assembly services",
+                "cap":"SMT, THT<br>electronic component sourcing<br>conformal coating<br>IC programming<br>functional jig test (free for bulky production)<br>burn-in test<br>box-built"
+            },
+            {
+                "spec":"Free support/services",
+                "cap":"Gerber and BOM check and improvement<br>complete PCBA sample (free for bulky production)<br>first article test<br>DFM, DFT, DFX<br>seeking alternative components"
+            },
+            {
+                "spec":"On-line PCBA tests",
+                "cap":"3D SPI<br>X-ray for ball grid arrays (BGA)<br>3D AOI<br>visual inspection"
+            },
+            {
+                "spec":"Industries",
+                "cap":"Industrial, medical, automotive, commercial, aerospace, defense, communication, automotive, research, etc."
+            }
+            
+            
+            
+           
+            
+           
+            
+            
+            
+        ]
+    },
+    "lowV":{
+        
+        "table":[
+            
+            {   "title":"Small-Batch PCB Assembly Capabilities",
+                "spec":"PCB assembly standard",
+                "cap":"IPC-A-610 Class 2/3"
+            },
+            {
+                "spec":"Low volume PCB assembly quantity",
+                "cap":"5 pieces to 30 pieces"
+            },
+            {
+                "spec":"Turnaround time",
+                "cap":"24 hours to 24 days"
+            },
+            {
+                "spec":"Finest pitch",
+                "cap":"0.35mm"
+            },
+             {
+                "spec":"Maximum board size",
+                "cap":"1200mm * 370mm"
+            },
+            
+             {
+                "spec":"Minimum board size",
+                "cap":"50mm * 50mm"
+            },
+            {
+                "spec":"Maximum rectangular part size",
+                "cap":"50mm * 150mm"
+            },
+            {
+                "spec":"Maximum square part size",
+                "cap":"74mm * 74mm"
+            },
+            {
+                "spec":"Maximum component height",
+                "cap":"25mm"
+            },
+             {
+                "spec":"PCB thickness",
+                "cap":"0.3mm to 4mm"
+            },
+            {
+                "spec":"Minimum SMD package",
+                "cap":"01005 (0.4mm * 0.2mm)"
+            },
+            {
+               "spec":"PCB assembly services",
+               "cap":"PCB design<br>PCB fabrication<br>SMT, THT<br>electronic component sourcing<br>conformal coating<br>IC programming<br>functional jig test<br>burn-in test<br>box-built"
+           },
+           {
+               "spec":"Free support/services",
+               "cap":"Gerber and BOM check and improvement<br>first article test<br>DFM, DFT, DFX<br>seeking alternative components"
+           }
+            
+            
+           
+            
+           
+            
+            
+            
+        ]
+    },
+    "highV":{
+        
+        "table":[
+            
+            {   "title":"High-Volume PCB Assembly Capabilities",
+                "spec":"PCB assembly standard",
+                "cap":"IPC-A-610 Class 2/3"
+            },
+            {
+                "spec":"High volume PCB assembly quantity",
+                "cap":"1000+ PCBA pieces or 20+㎡ total area"
+            },
+            {
+                "spec":"Turnaround time (including component sourcing)",
+                "cap":"18 days to 35 days"
+            },
+            {
+                "spec":"Finest pitch",
+                "cap":"0.35mm"
+            },
+             {
+                "spec":"Maximum board size",
+                "cap":"1200mm * 370mm"
+            },
+            
+             {
+                "spec":"Minimum board size",
+                "cap":"50mm * 50mm"
+            },
+            {
+                "spec":"Maximum rectangular part size",
+                "cap":"50mm * 150mm"
+            },
+            {
+                "spec":"Maximum square part size",
+                "cap":"74mm * 74mm"
+            },
+            {
+                "spec":"Maximum component height",
+                "cap":"25mm"
+            },
+             {
+                "spec":"PCB thickness",
+                "cap":"0.3mm to 4mm"
+            },
+            {
+                "spec":"Minimum SMD package",
+                "cap":"01005 (0.4mm * 0.2mm)"
+            },
+            {
+               "spec":"PCB assembly services",
+               "cap":"PCB design<br>PCB fabrication<br>SMT, THT<br>electronic component sourcing<br>conformal coating<br>IC programming<br>burn-in test<br>box-built"
+           },
+           {
+               "spec":"Free support/services",
+               "cap":"Gerber and BOM check and improvement<br>a complete PCBA sample<br>functional jig test<br>first article test<br>DFM, DFT, DFX<br>seeking alternative components"
+           }
+            
+            
+           
+            
+           
+            
+            
+            
+        ]
+    },
+    "base":{
+        
+        "table":[
+            
+            {   "title":"PCBONLINE's Copper Base PCB Capabilities",
+                "spec":"Copper base PCB Layers",
+                "cap":"1 to 8 layers, single-sided/double-sided"
+            },
+            {
+                "spec":"Turnaround",
+                "cap":"1 day to 4 weeks"
+            },
+            {
+                "spec":"Order PCB Quantity",
+                "cap":"1 to 10,000+ pieces"
+            },
+            {
+                "spec":"PCB/PCBA quality level",
+                "cap":"IPC-A-600/610 Class 3/2"
+            },
+             {
+                "spec":"Maximum copper base PCB size",
+                "cap":"1200mm * 480mm"
+            },
+            
+             {
+                "spec":"Minimum copper base PCB size",
+                "cap":"5mm * 5mm"
+            },
+            {
+                "spec":"PCB thickness",
+                "cap":"0.5mm to 5.0mm"
+            },
+            {
+                "spec":"Circuit layer copper thickness",
+                "cap":"35μm, 70μm, 105μm, 140μm, 175μm, 210μm, 245μm, 280μm, 315μm, 350μm"
+            },
+            {
+                "spec":"Via wall copper thickness",
+                "cap":"20μm to 35μm"
+            },
+             {
+                "spec":"Trace width/space",
+                "cap":"0.1mm/0.1mm"
+            },
+            {
+                "spec":"Surface finish and thickness",
+                "cap":"ENIG: Au 0.0254μm to 0.127μm, Ni 5μm to 6μm<br>OSP<br>HASL (LF): 40μm to 100μm<br>silver plating: Ag 3μm to 8μm<br>gold plating: Au 0.1μm to 0.5μm, Ni 4μm to 6μm"
+            },
+            {
+                "spec":"PCB warpage",
+                "cap":"≤ 0.5%"
+            },
+            {
+                "spec":"Minimum punching hole aperture",
+                "cap":"1.0mm"
+            },
+            {
+                "spec":"PCB routing tolerance",
+                "cap":"CNC routing: ±0.1mm, punching: ±0.1mm"
+            },
+            {
+                "spec":"Minimum drill diameter",
+                "cap":"0.6mm"
+            },
+            {
+                "spec":"Minimum solder mask opening",
+                "cap":"0.35mm"
+            }
+            
+           
+            
+            
+            
+        ]
+    },
+    "tht":{
+        
+        "table":[
+            
+            {   "title":"PCBONLINE's SMT and PTH Assembly Capabilities",
+                "spec":"SMT and PTH assembly standard",
+                "cap":"IPC-A-610 Class 2/3"
+            },
+            {
+                "spec":"SMT and PTH assembly quantity",
+                "cap":"From 1 piece to 10,000+ pieces"
+            },
+            {
+                "spec":"Turnaround time",
+                "cap":"1 day to 35 days"
+            },
+            {
+                "spec":"Finest pitch",
+                "cap":"0.35mm"
+            },
+             {
+                "spec":"Maximum board size",
+                "cap":"1200mm * 370mm"
+            },
+            
+             {
+                "spec":"Minimum board size",
+                "cap":"50mm * 50mm"
+            },
+            {
+                "spec":"Maximum rectangular part size",
+                "cap":"50mm * 150mm"
+            },
+            {
+                "spec":"Maximum square part size",
+                "cap":"74mm * 74mm"
+            },
+            {
+                "spec":"Maximum component height",
+                "cap":"25mm"
+            },
+             {
+                "spec":"PCB thickness",
+                "cap":"0.3mm to 4mm"
+            },
+            {
+                "spec":"Minimum SMD package",
+                "cap":"01005 (0.4mm * 0.2mm)"
+            },
+            {
+                "spec":"PCB assembly services",
+                "cap":"PCB design<br>PCB fabrication<br>SMT, THT<br>electronic component sourcing<br>conformal coating<br>IC programming<br>burn-in test<br>box-built"
+            },
+            {
+                "spec":"Free support/services",
+                "cap":"Gerber/BOM check and improvement<br>a complete PCBA sample (for bulky production)<br>functional jig test (for bulky production)<br>first article test<br>DFM, DFT, DFX<br>seeking alternative components"
+            }
+            
+           
+            
+            
+            
+        ]
+    },
+    "ins":{
+        
+        "table":[
+            
+            {   "title":"PCBONLINE's PCB Assembly Inspection Capabilities",
+                "spec":"PCB assembly standard",
+                "cap":"IPC-A-610 Class 2/3"
+            },
+            {
+                "spec":"Inspection before bulky production",
+                "cap":"First article inspection, IC counterfeit inspection"
+            },
+            {
+                "spec":"Inspections on PCB assembly lines",
+                "cap":"3D solder paste inspection, X-ray, visual inspection, 3D AOI"
+            },
+            {
+                "spec":"Inspections in the pro-assembly stage",
+                "cap":"Functional jig test, burn-in test"
+            },
+             {
+                "spec":"Maximum board size",
+                "cap":"1200mm * 370mm"
+            },
+            
+             {
+                "spec":"Minimum board size",
+                "cap":"50mm * 50mm"
+            },
+            {
+                "spec":"Maximum rectangular part size",
+                "cap":"50mm * 150mm"
+            },
+            {
+                "spec":"Maximum square part size",
+                "cap":"74mm * 74mm"
+            },
+            {
+                "spec":"Maximum component height",
+                "cap":"25mm"
+            },
+             {
+                "spec":"PCB thickness",
+                "cap":"0.3mm to 4mm"
+            },
+            {
+                "spec":"Finest pitch",
+                "cap":"0.35mm"
+            },
+            {
+                "spec":"Minimum SMD package",
+                "cap":"01005 (0.4mm * 0.2mm)"
+            }
+            
+           
+            
+            
+            
+        ]
+    },
+    "fab":{
+        
+        "table":[
+            
+            {   "title":"PCBONLINE's PCB Fabrication Capabilities",
+                "spec":"PCB substrate types",
+                "cap":"FR4, aluminum, ceramics, copper, polyimide, PET, Rogers (PTFE), and glass"
+            },
+            {
+                "spec":"Build time",
+                "cap":"12 hours to 4 weeks"
+            },
+            {
+                "spec":"PCB layers",
+                "cap":"FR4 PCB: 1 to 64<br>aluminum and ceramic PCB: 1 to 4<br>flexible PCB: 1 to 10<br>high-frequency PCB: 4 to 24 layers<br>rigid-flex PCB: 2 to 24 layers<br>copper-base PCB: 1 to 8"
+            },
+             {
+                "spec":"Copper thickness",
+                "cap":"Flexible PCB: 1/3oz to 3oz<br>FR4 PCB: 1/3oz to 14oz<br>flexible aluminum PCB: 25µm and 35µm"
+            },
+             {
+                "spec":"Maximum PCB size",
+                "cap":"Rigid PCB: 500mm * 610mm<br>flexible PCB: 220mm * 500mm"
+            },
+            {
+                "spec":"Final PCB thickness",
+                "cap":"Rigid PCB: 0.3mm to 8mm<br>flexible PCB: 0.05mm to 1.5mm"
+            },
+            {
+                "spec":"Minimum trace width/space",
+                "cap":"Flexible PCB: 0.035mm/0.035mm<br>rigid-flex PCB: 0.065mm/0.065mm<br>rigid PCB: 0.0635mm"
+            },
+            {
+                "spec":"HDI stackup",
+                "cap":"1+N+1, 2+N+2, and 3+N+3"
+            },
+            {
+                "spec":"Surface finish",
+                "cap":"OSP, HASL, lead-free HASL, immersion gold<br>immersion silver, silver plating, carbon ink<br>hard gold plating, peelable solder mask"
+            }
+            
+            
+           
+
+           
+            
+            
+            
+        ]
+    }
+}
+}
