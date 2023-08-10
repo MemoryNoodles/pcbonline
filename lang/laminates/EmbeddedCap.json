@@ -1,0 +1,43 @@
+{
+    "datad":{
+              
+
+
+        "firsttitle":["Embedded Capacitance Materials"],
+        "subtitle":[ "Manufacturers",	"Laminate Models","TG (°C)","Dk","CTE (x-y, TMA)"],
+        "cells":[
+            {
+                  "title":"3M",
+                   "subtitle":[
+                   
+                    {
+                        "title":"ECM",
+                        "cells":["Supplier doesn't display… know laminate details."]
+                    }
+                   ]
+
+            }
+            ,{
+              
+                  "title":"FaradFlex",
+                   "subtitle":[
+                   
+                    {
+                        "title":"MC8M, MC12M, MC24M",
+                        "cells":["183-191 (DMA, IPC TM-650 2.4.24)","4.4/3.5  @ 1MHz/1GHz","23-32ppm/°C (IPC TM-650 2.4.24.5)"]
+                    },
+                    {
+                        "title":"MC12TM",
+                        "cells":["189 (DMA, IPC TM-650 2.4.24)","10/9.5  @ 1MHz/1GHz","28ppm/°C (IPC TM-650 2.4.24.5)"],
+                        "sp":1
+                    },
+                    {
+                        "title":"MC16T",
+                        "cells":["Supplier doesn't display the laminate. Contact PCBONLINE to know laminate details."]
+                    }
+                   ]
+
+            }
+        ]
+    }
+}

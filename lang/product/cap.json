@@ -1,0 +1,1209 @@
+{"datad":{
+    
+    "rigidFlex":
+        {
+
+          
+            "title":"Rigid <span class='yel'>Flex PCB Manufacturing Capabil</span>ities",
+            "titlePh1":"<span class='yel'>Rigid Flex PCB Manufac</span>turing",
+            "titlePh2":"<span class='yel'>Capabilit</span>ies",
+            
+            "img":"rigid-flex-pcb.webp",
+            "alt":"rigid-flex PCB structure",
+            "app":{
+                "title":"Order rigid-flex PCBs from PCBONLINE for",
+                "points":[
+                    "applications that require flexibility and dense circuitry with compact spaces, such as",
+                    "● thermal imagers, automotive sensors, radar imaging systems, controller connection boards, etc.",
+                    "● satellite communications systems, smartphone/industrial cameras, lithium battery covers, etc.",
+                    "● medical devices like analytical instruments, capsule gastroscopes, health sensors, etc.",
+                    "● digital security controls, desktop/laptop screens, smart-wear devices, AI devices, headsets, etc."
+                ]
+            },
+            "carouselList": [
+                {
+                  "id": 1,
+                  "img":"semi-flex-pcb.jpg",
+                  "alt":"semi-flex PCB"
+                },
+                {
+                  "id": 2,
+                  "img": "flex-rigid-pcb.jpg",
+                  "alt":"flex-rigid PCB"
+                },
+                {
+                  "id": 3,
+                  "img":"rigid-flex-pcb-prototype.jpg",
+                  "alt":"rigid-flex PCB prototype"
+                },
+                {
+                  "id": 4,
+                  "img": "semi-rigid-pcb.jpg",
+                  "alt":"semi-rigid PCB"
+                },
+                {
+                  "id": 5,
+                  "img": "rigid-flex-circuit-board.jpg",
+                  "alt":"rigid-flex circuit board"
+                }
+                
+              ]
+
+
+           
+        },
+        "highTg":
+        {
+
+          
+            "title":"<span class='yel'>High Tg PCB Manufacturing Capa</span>bilities",
+            "titlePh1":"<span class='yel'>High Tg PCB Ma</span>nufacturing",
+            "titlePh2":"<span class='yel'>Capabilit</span>ies",
+            "img":"high-tg-pcb.webp",
+            "alt":"high Tg PCB",
+            "app":{
+                "title":"Applications of High Tg PCBs",
+                "points":[
+                    "● Lead-free assemblies",
+                    "● Wireless communications equipment",
+                    "● Computers, servers, routing systems",
+                    "● Automotive, medical, LED forward lighting systems",
+                    "● Precise instruments, measuring instruments, etc."  
+                ]
+            },
+            "carouselList": [
+                {
+                  "id": 1,
+                  "img":"high-tg-fr4-pcb.jpg",
+                  "alt":"high Tg FR4 PCB"
+                },
+                {
+                  "id": 2,
+                  "img": "tg-170-pcb.jpg",
+                  "alt":"Tg 170 PCB"
+                },
+                {
+                  "id": 3,
+                  "img":"high-temperature-pcb.jpg",
+                  "alt":"high-temperature PCB"
+                },
+                {
+                  "id": 4,
+                  "img": "high-tg-pcb-manufacturing.jpg",
+                  "alt":"high-Tg PCB manufacturing"
+                },
+                {
+                  "id": 5,
+                  "img": "communication-high-tg-pcb.jpg",
+                  "alt":"communication high Tg PCB"
+                }
+                
+              ]
+
+
+           
+        },
+        "multiLayer":
+        {
+
+          
+            "title":"<span class='yel'>Multilayer PCB Manufacturing Capa</span>bilities",
+            "titlePh1":"<span class='yel'>Multilayer PCB Ma</span>nufacturing",
+            "titlePh2":"<span class='yel'>Capabilit</span>ies",
+            "img":"multilayer-pcb-structure.webp",
+            "alt":"multilayer PCB structure",
+            "app":{
+                "title":"Applications of Multilayer PCBs",
+                "points":[
+                    "● Computers, telecommunication",
+                    "● Industrial controls, automotive",
+                    "● Defense & aerospace systems",
+                    "● Medical equipment",
+                    "● Consumer electronics, etc."  
+                ]
+            },
+            "carouselList": [
+                {
+                  "id": 1,
+                  "img":"multilayer-rigid-pcb.jpg",
+                  "alt":"multiayer rigid PCB"
+                },
+                {
+                  "id": 2,
+                  "img": "4-layer-pcb.webp",
+                  "alt":"4 layer PCB"
+                },
+                {
+                  "id": 3,
+                  "img":"6-layer-pcb-fabrication.jpg",
+                  "alt":"6-layer PCB fabrication"
+                },
+                {
+                  "id": 4,
+                  "img": "24-layer-pcb.jpg",
+                  "alt":"24-layer PCB"
+                },
+                {
+                  "id": 5,
+                  "img": "8-layer-pcb.jpg",
+                  "alt":"8-layer PCB"
+                }
+                
+              ]
+
+
+           
+        },
+        "thickCopper":
+        {
+
+          
+            "title":"<span class='yel'>Heavy Copper PCB Manufacturing Capa</span>bilities",
+            "titlePh1":"<span class='yel'>Heavy Copper PCB Ma</span>nufacturing",
+            "titlePh2":"<span class='yel'>Capabilit</span>ies",
+            "img":"heavy-copper-pcb-structure.webp",
+            "alt":"4oz copper PCB",
+            "app":{
+                "title":"Applications of Thick-Copper PCBs",
+                "points":[
+                    "● Power supplies, such as planar transformers",
+                    "● High-current and high-power devices",
+                    "● Automotive electronics such as rail traction",
+                    "● New energy electronics such as solar power converters",
+                    "● Electrical power systems such as overhead relays",
+                    "● Pulse converters, torque controls, welding equipment, etc"  
+                ]
+            },
+            "carouselList": [
+              {
+                "id": 1,
+                "img":"4oz-copper-pcb.webp",
+                "alt":"4oz copper PCB"
+              },
+                {
+                  "id": 2,
+                  "img":"thick-copper-pcb.webp",
+                  "alt":"thick copper PCB"
+                },
+                {
+                  "id": 3,
+                  "img": "10oz-copper-pcb.webp",
+                  "alt":"10oz copper PCB"
+                },
+                {
+                  "id": 4,
+                  "img":"customized-heavy-copper-pcb.jpg",
+                  "alt":"customized heavy copper PCB"
+                },
+                {
+                  "id": 5,
+                  "img": "heavy-copper-pcb-boards.jpg",
+                  "alt":"heavy copper PCB boards"
+                },
+                {
+                  "id": 6,
+                  "img": "thick-copper-pcb-board.webp",
+                  "alt":"thick copper PCB board"
+                }
+                
+              ]
+
+
+           
+        },
+        "flexible":
+        {
+
+          
+            "title":"<span class='yel'>Flexible PCB Manufacturing Capa</span>bilities",
+            "titlePh1":"<span class='yel'>Flexible PCB Ma</span>nufacturing",
+            "titlePh2":"<span class='yel'>Capabilit</span>ies",
+            "img":"flexible-pcb-structure.jpg",
+            "alt":"flexible PCB structure",
+            "app":{
+                "title":"Order Different Types of Flexible PCBs from PCBONLINE if You Need",
+                "points":[
+                    "● Affordable single or double-sided flexible PCBs for circuit connection in compact-space applications.",
+                    "● Transparent flexible PCBs to be used for medical skins, LED displays, automotive lights, biological research, etc.",
+                    "● HDI or multilayer flexible PCBs are used in defense, communications, automotive, computing, and consumer electronics.",
+                    "● Extremely thin flexible PCBs with a limit minimum thickness of 0.05mm. Such flex PCBs have no adhesive.",
+                    "● Rigid-flex PCBs or RA copper flexible PCBs for applications that require frequent bending, twisting, and stretches.",
+                    "● PCBs that require flexible PI or PET and other materials such as FR4 and PTFE to hybrid laminate."  
+                ]
+            },
+            "carouselList": [
+                {
+                  "id": 1,
+                  "img":"flexible-pcb.jpg",
+                  "alt":"flexible PCB"
+                },
+                {
+                  "id": 2,
+                  "img": "clear-flexible-pcb.jpg",
+                  "alt":"clear flexible PCB"
+                },
+                {
+                  "id": 3,
+                  "img":"fpc-with-carbon-ink-pad.jpg",
+                  "alt":"FPC with carbon ink pads"
+                },
+                {
+                  "id": 4,
+                  "img": "flexible-pcb-led-strip.webp",
+                  "alt":"flexible PCB LED strip"
+                },
+                {
+                  "id": 5,
+                  "img": "flexible-pcb-stiffeners.webp",
+                  "alt":"flexible PCB stiffeners"
+                }
+                
+              ]
+
+
+           
+        },
+        "led":
+        {
+
+          
+          "title":"<span class='yel'>LED PCB Manufacturing Capabiliti</span>es",
+          "titlePh1":"<span class='yel'>LED PCB Manufacturi</span>ng",
+          "titlePh2":"<span class='yel'>Capabiliti</span>es",
+          "img":"led-pcb-structure.webp",
+          "alt":"LED PCB structure",
+          "app":{
+                "title":"Applications of LED PCBs",
+                "points":[
+                    "● LED PCBs can be used in LED lights for automotive, medical, and consumer electronics.",
+                    "● FR4, copper, and aluminum LED PCBs can be used for LED grow lights, automotive headlights, flood lights, and so on.",
+                    "● Ceramic and glass LED PCBs are mainly used for high-power LED products such as ship lamps.",
+                    "● Flexible PI LED PCBs can be used for wearable and portable products such as miner's lamp",
+                    "● Clear flexible LED PCBs can be used for transparent products such as LED display screens.",
+                    "● Flexible aluminum LED PCBs can be used for LED lights that can illuminate in all directions."  
+                ]
+            },
+            "carouselList": [
+                {
+                  "id": 1,
+                  "img":"led-pcb.jpg",
+                  "alt":"LED PCB"
+                },
+                {
+                  "id": 2,
+                  "img":"flexible-led-pcb.jpg",
+                  "alt":"flexible LED PCB"
+                },
+                {
+                  "id": 3,
+                  "img":"aluminum-pcb-led.jpg",
+                  "alt":"aluminum PCB LED"
+                },
+                {
+                  "id": 4,
+                  "img":"power-led-pcb.jpg",
+                  "alt":"power LED PCB"
+                },
+                {
+                  "id": 5,
+                  "img":"led-pcb-board.jpg",
+                  "alt":"LED PCB board"
+                }
+                
+              ]
+
+
+           
+        },
+        "free":
+        {
+
+          
+          "title":"<span class='yel'>Lead-Free PCB Manufacturing Capa</span>bilities",
+          "titlePh1":"<span class='yel'>Lead-Free PCB Ma</span>nufacturing",
+          "titlePh2":"<span class='yel'>Capabilit</span>ies",
+          "img":"lead-free-pcb-structure.webp",
+          "alt":"lead-free-pcb-structure",
+          "app":{
+                "title":"Applications of Lead-Free PCBs",
+                "points":[
+                    "● RoHS-certified lead-free PCBs can be shipped and used worldwide",
+                    "● REACH-certified lead-free PCBs can be shipped and used in EU countries",
+                    "● Can be used in states that mandate lead-free manufacturing, such as California",
+                    "● Products that work with human beings, such as consumer electronics",
+                    "● Lead-free PCBs are used for almost all middle-end or advanced products",
+                    "● Used for products that are friendly to environments and animals"  
+                ]
+            },
+            "carouselList": [
+                {
+                  "id": 1,
+                  "img":"lead-free-pcb.jpg",
+                  "alt":"PCB lead free"
+                },
+                {
+                  "id": 2,
+                  "img":"lead-free-assembly.jpg",
+                  "alt":"lead-free assembly"
+                },
+                {
+                  "id": 3,
+                  "img":"hasl-lead-free-pcb.jpg",
+                  "alt":"HASL lead-free PCB"
+                },
+                {
+                  "id": 4,
+                  "img":"lead-free-pcb-manufacturing.jpg",
+                  "alt":"lead-free PCB manufacturing"
+                },
+                {
+                  "id": 5,
+                  "img":"rohs-compliant-circuit-board.jpg",
+                  "alt":"RoHS compliant circuit boards"
+                }
+                
+              ]
+
+
+           
+        },
+        "carbon":
+        {
+
+          
+          "title":"<span class='yel'>Carbon Ink PCB Manufacturing Capa</span>bilities",
+          "titlePh1":"<span class='yel'>Carbon Ink PCB Ma</span>nufacturing",
+          "titlePh2":"<span class='yel'>Capabilit</span>ies",
+          "img":"carbon-ink-pcb-structure.webp",
+          "alt":"carbon ink PCB structure",
+          "app":{
+                "title":"Applications of Carbon Ink PCBs",
+                "points":[
+                    "● High-resistance carbon ink PCBs can be used for industrial instrument panels",
+                    "● Panels of low-power consumer electronics, such as TV remote controls",
+                    "● Panels of electronic organs, calculators, phones",
+                    "● Mechanical computer keyboards, custom computer keyboards",
+                    "● Electronic measuring instruments, such as multi-functional meters",
+                    "● Immersion gold then carbon ink-coated PCBs can be used for medical panels"  
+                ]
+            },
+            "carouselList": [
+                {
+                  "id": 1,
+                  "img":"carbon-ink-pcb.jpg",
+                  "alt":"carbon ink PCB"
+                },
+                {
+                  "id": 2,
+                  "img":"carbon-contacts-on-pcb.jpg",
+                  "alt":"carbon contacts on PCB"
+                },
+                {
+                  "id": 3,
+                  "img":"carbon-oil-pcb.jpg",
+                  "alt":"carbon oil PCB"
+                },
+                {
+                  "id": 4,
+                  "img":"carbon-button-pcb.jpg",
+                  "alt":"carbon button PCB"
+                },
+                {
+                  "id": 5,
+                  "img":"carbon-pcb.jpg",
+                  "alt":"carbon-pcb"
+                }
+                
+              ]
+
+
+           
+        },
+        "ceramic":
+        {
+
+          
+          "title":"<span class='yel'>Ceramic PCB Manufacturing Capa</span>bilities",
+          "titlePh1":"<span class='yel'>Ceramic PCB Ma</span>nufacturing",
+          "titlePh2":"<span class='yel'>Capabilit</span>ies",
+          "img":"ceramic-pcb-structure.webp",
+          "alt":"ceramic PCB structure",
+          "app":{
+                "title":"Applications of Ceramic PCBs",
+                "points":[
+                    "● High-power electronic modules, solar panel components",
+                    "● High-frequency switching power supplies, solid-state relays",
+                    "● High-power LED lighting products",
+                    "● Communication antennas",
+                    "● Automotive sensors, refrigeration sheets, etc"
+                  
+                ]
+            },
+            "carouselList": [
+                {
+                  "id": 1,
+                  "img":"ceramic-pcb.jpg",
+                  "alt":"ceramic PCB"
+                },
+                {
+                  "id": 2,
+                  "img":"aluminum-nitride-pcb.jpg",
+                  "alt":"aluminum nitride PCB"
+                },
+                {
+                  "id": 3,
+                  "img":"alumina-pcb.jpg",
+                  "alt":"alumina PCB"
+                },
+                {
+                  "id": 4,
+                  "img":"ceramic-substrate-pcb.jpg",
+                  "alt":"ceramic substrate PCB"
+                },
+                {
+                  "id": 5,
+                  "img":"ceramic-pcb-board.jpg",
+                  "alt":"ceramic PCB board"
+                }
+                
+              ]
+
+
+           
+        },
+        "halogen":
+        {
+
+          
+          "title":"<span class='yel'>Halogen-Free PCB Manufacturing Capa</span>bilities",
+          "titlePh1":"<span class='yel'>Halogen-Free PCB Ma</span>nufacturing",
+          "titlePh2":"<span class='yel'>Capabilit</span>ies",
+          "img":"halogen-free-pcb-structure.webp",
+          "alt":"halogen-free PCB structure",
+          "app":{
+                "title":"Applications of Halogen-Free PCBs",
+                "points":[
+                    "● Automotive electronics",
+                    "● Communication equipment",
+                    "● Computers, tablets, smartphones",
+                    "● Electronic Game Machine, VCR",
+                    "● DC/DC converters",
+                    "● LED lamps, display screens"
+                  
+                ]
+            },
+            "carouselList": [
+                {
+                  "id": 1,
+                  "img":"halogen-free-printed-circuit-board.jpg",
+                  "alt":"halogen-free PCB"
+                },
+                {
+                  "id": 2,
+                  "img":"pcb-halogen-free.jpg",
+                  "alt":"PCB halogen-free"
+                },
+                {
+                  "id": 3,
+                  "img":"halogen-free-fr4-pcb.jpg",
+                  "alt":"halogen-free FR4 PCB"
+                },
+                {
+                  "id": 4,
+                  "img":"halogen-free-circuit-board.jpg",
+                  "alt":"halogen-free circuit board"
+                },
+                {
+                  "id": 5,
+                  "img":"halogen-free-pcb-board.jpg",
+                  "alt":"halogen-free PCB board"
+                }
+                
+              ]
+
+
+           
+        },
+        "alum":
+        {
+
+          
+          "title":"<span class='yel'>Aluminum PCB Manufacturing Capabiliti</span>es",
+          "titlePh1":"<span class='yel'>Aluminum PCB Manufacturi</span>ng",
+          "titlePh2":"<span class='yel'>Capabiliti</span>es",
+          "img":"aluminum-pcb-structure.jpg",
+          "alt":"aluminum PCB structure",
+          "app":{
+                "title":"Applications of Aluminum PCBs",
+                "points":[
+                    "● All kinds of LED lights, such as automotive headlights and LED grow lights",
+                    "● Flexible aluminum PCBs can be used for LED lights that illuminate in all directions",
+                    "● DC/DC converters",
+                    "● Industrial controllers",
+                    "● Rectifiers and motor drive modules",
+                    "● Solar energy power products"
+                  
+                ]
+            },
+            "carouselList": [
+                {
+                  "id": 1,
+                  "img":"aluminum-pcb.jpg",
+                  "alt":"aluminum PCB"
+                },
+                {
+                  "id": 2,
+                  "img":"aluminum-base-pcb.jpg",
+                  "alt":"aluminum base PCB"
+                },
+                {
+                  "id": 3,
+                  "img":"aluminum-pcb-board.jpg",
+                  "alt":"aluminum PCB board"
+                },
+                {
+                  "id": 4,
+                  "img":"aluminum-pcb-for-led.webp",
+                  "alt":"aluminum PCB for LED"
+                },
+                {
+                  "id": 5,
+                  "img":"flexible-aluminum-pcb.webp",
+                  "alt":"flexible aluminum PCB"
+                }
+                
+              ]
+
+
+           
+        },
+        "freq":
+        {
+
+          
+          "title":"<span class='yel'>High-Frequency PCB Manufacturing Capa</span>bilities",
+          "titlePh1":"<span class='yel'>High-Frequency PCB Ma</span>nufacturing",
+          "titlePh2":"<span class='yel'>Capabilit</span>ies",
+          "img":"high-frequency-pcb-structure.webp",
+          "alt":"high-frequency PCB structure",
+          "app":{
+                "title":"Applications of High-Frequency PCBs",
+                "points":[
+                    "● Communications facilities, such as signal towers, antennas",
+                    "● Satellite communications systems",
+                    "● Aircraft and automotive collision avoidance systems",
+                    "● Filters, couplers, power amplifiers",
+                    "● RF/microwave devices, such as backhauls, sensors, adapters",
+                    "● Consumer electronics, such as smartphones, GPS"  
+                ]
+            },
+            "carouselList": [
+                {
+                  "id": 1,
+                  "img":"high-frequency-pcb-board.jpg",
+                  "alt":"high-frequency PCB"
+                },
+                {
+                  "id": 2,
+                  "img":"rf-microwave-pcb.jpg",
+                  "alt":"RF microwave PCB"
+                },
+                {
+                  "id": 3,
+                  "img":"high-speed-pcb.jpg",
+                  "alt":"high-speed PCB"
+                },
+                {
+                  "id": 4,
+                  "img":"ptfe-pcb.jpg",
+                  "alt":"PTFE PCB"
+                },
+                {
+                  "id": 5,
+                  "img":"rogers-pcb.jpg",
+                  "alt":"Rogers PCB"
+                }
+                
+              ]
+
+
+           
+        },
+        "proto":
+        {
+
+          
+          "title":"<span class='yel'>Prototype PCB Manufacturing Capa</span>bilities",
+          "titlePh1":"<span class='yel'>Prototype PCB Ma</span>nufacturing",
+          "titlePh2":"<span class='yel'>Capabilit</span>ies",
+          "img":"prototype-pcb-structure.jpg",
+          "alt":"prototype PCB structure",
+          "app":{
+                "title":"Order PCB prototypes from PCBONLINE if:",
+                "points":[
+                    "● You are in the early development stage and need our R&D help to get an optimum PCB design to reduce fabrication costs without quality sacrifice.",
+                    "● You need advanced PCB prototypes and product samples, such as RF/microwave PCBs, aluminum nitride PCBs, aluminum oxide PCBs, rigid-flex PCBs, transparent PCBs, etc.",
+                    "● You are a professional or scientist from a research institute or organization and look for small-batch PCB manufacturing and assembly for complex projects",
+                    "● You are an original equipment manufacturer (OEM) who plans to launch new products to market and wants an advanced PCB manufacturer to fabricate prototypes.",
+                    "● Your previous PCB suppliers can't meet your application requirements, and you want to find a new PCB manufacturer who can provide you with successful results.",
+                    "● You need PCBs for high-performance applications for automotive, defense, medical, and aerospace that require high reliability and fabrication precision. "
+                   
+                ]
+            },
+            "carouselList": [
+                {
+                  "id": 1,
+                  "img":"advanced-pcb-prototype.jpg",
+                  "alt":"advanced PCB prototype"
+                },
+                {
+                  "id": 2,
+                  "img":"pcb-prototype-assembly.jpg",
+                  "alt":"PCB prototype assembly"
+                },
+                {
+                  "id": 3,
+                  "img":"pcb-protoptyping-board.jpg",
+                  "alt":"PCB prototyping board"
+                },
+                {
+                  "id": 4,
+                  "img":"4-layer-pcb-prototype.webp",
+                  "alt":"4-layer PCB prototype"
+                },
+                {
+                  "id": 5,
+                  "img":"quick-pcb-prototyping.jpg",
+                  "alt":"quick PCB prototyping"
+                }
+                
+              ]
+
+
+           
+        },
+        "hdi":
+        {
+
+          
+          "title":"<span class='yel'>HDI PCB Manufacturing Capa</span>bilities",
+          "titlePh1":"<span class='yel'>HDI PCB Ma</span>nufacturing",
+          "titlePh2":"<span class='yel'>Capabilit</span>ies",
+          "img":"hdi-pcb-structure.webp",
+          "alt":"HDI PCB structure",
+          "app":{
+                "title":"Applications of HDI PCBs",
+                "points":[
+                    "● Battery switches",
+                    "● Power distributors",
+                    "● Motor controls",
+                    "● LED applications control",
+                    "● Automotive, industrial, communications electronics",
+                    "● Satellites, microsystems"  
+                ]
+            },
+            "carouselList": [
+                {
+                  "id": 1,
+                  "img":"hdi-pcb-circuit-board.jpg",
+                  "alt":"HDI PCB"
+                },
+                {
+                  "id": 2,
+                  "img":"hdi-multilayer-pcb.jpg",
+                  "alt":"HDI multilayer PCB"
+                },
+                {
+                  "id": 3,
+                  "img":"high-density-pcb.jpg",
+                  "alt":"high-density PCB"
+                },
+                {
+                  "id": 4,
+                  "img":"pcb-hdi.jpg",
+                  "alt":"PCB HDI"
+                },
+                {
+                  "id": 5,
+                  "img":"hdi-pcb-board.jpg",
+                  "alt":"HDI PCB board"
+                }
+                
+              ]
+
+
+           
+        },
+        "elc":
+        {
+
+          
+          "title":"<span class='yel'>Electronic Components Sourcing</span>",
+          "titlePh1":"<span class='yel'>Electronic Components So</span>urcing",
+          "titlePh2":"<span class='yel'>Capabilit</span>ies",
+          "img":"source-electronic-component.webp",
+          "alt":"source electronic components",
+          "app":{
+                "title":"Applications of Electronic Components",
+                "points":[
+                    "● Permanently soldering on circuit boards for PCB assembly",
+                    "● Temporarily assembling on breadboards for circuit design and testing",
+                    "● Resistors are mainly used for current limits; capacitors can be used for DC blocking, coupling, bypassing, filtering, etc.",
+                    "● ICs are used in analog and digital circuits to calculate, control, process, etc.",
+                    "● Diodes are mainly used for rectifying; triodes are mainly used for current amplification",
+                    "● Connectors are used for circuit connection/disconnection; transformers are used to change the AC voltage"  
+                ]
+            },
+            "carouselList": [
+                {
+                  "id": 1,
+                  "img":"pcb-passive-components.jpg",
+                  "alt":"PCB passive components"
+                },
+                {
+                  "id": 2,
+                  "img":"printed-circuit-board-components.jpg",
+                  "alt":"printed circuit board components"
+                },
+                {
+                  "id": 3,
+                  "img":"pcb-components.jpg",
+                  "alt":"PCB components"
+                },
+                {
+                  "id": 4,
+                  "img":"counterfeit-ic.jpg",
+                  "alt":"counterfeit IC"
+                },
+                {
+                  "id": 5,
+                  "img":"electronic-component-quality-control.jpg",
+                  "alt":"electronic component quality control"
+                }
+                
+              ]
+
+
+           
+        },
+         "smt":
+        {
+
+          
+          "title":"<span class='yel'>SMT Stencils Manufacturing Capa</span>bilities",
+          "titlePh1":"<span class='yel'>SMT Stencils Ma</span>nufacturing",
+          "titlePh2":"<span class='yel'>Capabilit</span>ies",
+          "img":"pcb-stencil.webp",
+          "alt":"PCB stencil",
+          "app":{
+                "title":"Applications of SMT Stencils",
+                "points":[
+                    "● Automatic SMT assembly for your PCBs at PCBONLINE's one-stop assembly factory",
+                    "● Automatic or half-automatic SMT assembly by yourself",
+                    "● Laser-cut stainless PCB stencils can be used in most PCB assembly projects including ultra-fine pitch assembly (≤0.4mm)",
+                    "● Nickel-based electroformed PCB stencils are mainly used for wafer bumping, flip-chip, and µBGA assembly"
+                    
+                ]
+            },
+            "carouselList": [
+                {
+                  "id": 1,
+                  "img":"smt-stencil.jpg",
+                  "alt":"SMT stencil"
+                },
+                {
+                  "id": 2,
+                  "img":"laser-cut-smt-stencil.jpg",
+                  "alt":"laser-cut SMT stencil"
+                },
+                {
+                  "id": 3,
+                  "img":"solder-paste-stencil.jpg",
+                  "alt":"solder paste stencil"
+                },
+                {
+                  "id": 4,
+                  "img":"smt-stencil-frame.jpg",
+                  "alt":"framed SMT stencil"
+                },
+                {
+                  "id": 5,
+                  "img":"prototype-smt-stencil.jpg",
+                  "alt":"prototype SMT stencil"
+                }
+                
+              ]
+
+
+           
+        },
+        "asm":
+        {
+
+          
+          "title":"<span class='yel'>Printed Circuit Board Assembly Capabiliti</span>es",
+          "titlePh1":"<span class='yel'>Printed Circuit Board Assemb</span>ly",
+          "titlePh2":"<span class='yel'>Capabilitie</span>s",
+          "img":"pcb-assembly-services.jpg",
+          "alt":"PCB assembly services",
+          "app":{
+                "title":"Applications of PCB Assemblies from PCBONLINE",
+                "points":[
+                    "● PCB assemblies are semi-manufactured goods and play key functions in almost all electronic devices",
+                    "● PCBA manufacturing that follows IPC-A-610 Class 1 serves general and consumer electronics",
+                    "● PCBA manufacturing that follows IPC-A-610 Class 2 serves communication, industrial electronics, and complex commercial devices that require a long lifespan",
+                    "● PCBA manufacturing that follows IPC-A-610 Class 3 serves medical electronics, aerospace/aviation controllers, precision instruments, and high-reliability devices that work in harsh environments",
+                    "● Aluminum, ceramic, and copper-based PCB assemblies are used for electronic devices that require much thermal dissipation",
+                    "● Rigid-flex and flexible PCB assemblies can be used for electronic devices that have a compact space and require flexibility, such as mobile phones, laptops, satellites, gastroscopies, and batteries/sensors/cameras/switches in cars"  
+                ]
+            },
+            "carouselList": [
+                {
+                  "id": 1,
+                  "img":"pcba-manufacturing.jpg",
+                  "alt":"PCBA manufacturing"
+                },
+                {
+                  "id": 2,
+                  "img":"pcb-manufacturing-and-assembly.jpg",
+                  "alt":"PCB manufacturing and assembly"
+                },
+                {
+                  "id": 3,
+                  "img":"printed-circuit-board-assembly.jpg",
+                  "alt":"printed circuit board assembly"
+                },
+                {
+                  "id": 4,
+                  "img":"ems-pcb-assembly.jpg",
+                  "alt":"EMS PCB assembly"
+                },
+                {
+                  "id": 5,
+                  "img":"pcb-&-pcba-manufacturer.jpg",
+                  "alt":"PCB & PCBA manufacturer"
+                }
+                
+              ]
+
+
+           
+        },
+        "lowV":
+        {
+
+          
+          "title":"<span class='yel'>Small-Batch PCB Assembly Manufacturing Capa</span>bilities",
+          "titlePh1":"<span class='yel'>Small-Batch PCB Assembly Ma</span>nufacturing",
+          "titlePh2":"<span class='yel'>Capabilit</span>ies",
+          "img":"small-batch-pcb-assembly.webp",
+          "alt":"small batch PCB assembly",
+          "app":{
+                "title":"Applications of Low Volume PCB Assembly",
+                "points":[
+                    "● Prototype PCB assembly is usually used for sampling, testing, and design improvement",
+                    "● Small batch PCB assembly is often ordered for scientific research by institutes",
+                    "● Business makers often order low volume PCB assembly for business tries",
+                    "● Hobbyists may also order low volume PCB assembly to bring designs into reality",
+                    "● Companies may buy low volume PCB assembly for small-scale marketing",
+                    "● Ensuring bulky PCBA order quality because low volume PCB assembly has the same quality as bulky PCBA"
+                  
+                ]
+            },
+            "carouselList": [
+                {
+                  "id": 1,
+                  "img":"low-volume-pcb-assembly.jpg",
+                  "alt":"low volume PCB assembly"
+                },
+                {
+                  "id": 2,
+                  "img":"oem-small-batch-pcb-assembly.jpg",
+                  "alt":"OEM small batch PCB assembly"
+                },
+                {
+                  "id": 3,
+                  "img":"prototype-pcb-assembly-services.jpg",
+                  "alt":"prototype PCB assembly services"
+                },
+                {
+                  "id": 4,
+                  "img":"pcb-prototype-and-assembly.jpg",
+                  "alt":"PCB prototype and assembly"
+                },
+                {
+                  "id": 5,
+                  "img":"low-volume-pcb-assembly-services.jpg",
+                  "alt":"low volume PCB assembly services"
+                }
+                
+              ]
+
+
+           
+        },
+        "highV":
+        {
+
+          
+          "title":"<span class='yel'>High Volume PCB Assembly Manufacturing Capa</span>bilities",
+          "titlePh1":"<span class='yel'>High Volume PCB Assembly Ma</span>nufacturing",
+          "titlePh2":"<span class='yel'>Capabilit</span>ies",
+          "img":"high-volume-pcb-assembly.webp",
+          "alt":"high volume PCB assembly",
+          "app":{
+                "title":"Applications of High Volume PCB Assembly",
+                "points":[
+                    "● High volume PCB assembly is used for bulky production when the design settles",
+                    "● Terminal companies usually order high-volume PCB assembly and box-built for stable marketing supply",
+                    "● High volume PCB assembly is usually implemented after the sample PCBA assembled with the mechanical box is done",
+                    "● High volume assembly for MCPCBs and ceramic PCBs usually serves for applications with better thermal dissipation",
+                    "● High volume assembly for FPC and rigid-flex PCBs usually serve for applications with a compact space that needs bending",
+                    "● High volume assembly for HDI and high-frequency PCBs usually serve for high-speed and microwave applications"
+                  
+                ]
+            },
+            "carouselList": [
+                {
+                  "id": 1,
+                  "img":"wholesale-high-volume-pcb.jpg",
+                  "alt":"wholesale high volume PCB"
+                },
+                {
+                  "id": 2,
+                  "img":"high-volume-pcb-manufacturer.jpg",
+                  "alt":"high-volume PCB manufacturer"
+                },
+                {
+                  "id": 3,
+                  "img":"high-volume-quick-turn-pcb-assembly.jpg",
+                  "alt":"high volume quick turn PCB assembly"
+                },
+                {
+                  "id": 4,
+                  "img":"high-volume-pcb-manufactuirng.webp",
+                  "alt":"high volume PCB manufacturing"
+                },
+                {
+                  "id": 5,
+                  "img":"contract-pcb-assembly.jpg",
+                  "alt":"contract PCB assembly"
+                }
+                
+              ]
+
+
+           
+        },
+        "base":
+        {
+
+          
+          "title":"<span class='yel'>Copper Base PCB Manufacturing Capa</span>bilities",
+          "titlePh1":"<span class='yel'>Copper Base PCB Ma</span>nufacturing",
+          "titlePh2":"<span class='yel'>Capabilit</span>ies",
+          "img":"copper-base-pcb.jpg",
+          "alt":"copper base PCB",
+          "app":{
+                "title":"Applications of Copper Base PCBs",
+                "points":[
+                    "● Copper base PCBs are mainly used for power devices that require high thermal dissipation",
+                    "● Copper-based PCBs are the top design option for high-power LED lights",
+                    "● A popular COB solution is bonding COB LEDs on copper base PCBs",
+                    "● Copper base PCBs can be used for electricity instruments",
+                    "● Applications in lighting include business, outdoor, car lamps, stage lights, etc",
+                    "● Can be used for medical, communication, new energy, and UV lights"  
+                ]
+            },
+            "carouselList": [
+                {
+                  "id": 1,
+                  "img":"copper-core-pcb.jpg",
+                  "alt":"copper core PCB"
+                },
+                {
+                  "id": 2,
+                  "img":"copper-based-pcb.jpg",
+                  "alt":"copper-based PCB"
+                },
+                {
+                  "id": 3,
+                  "img":"copper-substrate-pcb.jpg",
+                  "alt":"copper substrate PCB"
+                },
+                {
+                  "id": 4,
+                  "img":"copper-metal-core-pcb.jpg",
+                  "alt":"copper metal core PCB"
+                },
+                {
+                  "id": 5,
+                  "img":"copper-pcb.jpg",
+                  "alt":"copper PCB"
+                }
+                
+              ]
+
+
+           
+        },
+        "tht":
+        {
+
+          
+          "title":"<span class='yel'>SMT and PTH PCB Assembly Manufacturing Capa</span>bilities",
+          "titlePh1":"<span class='yel'>SMT and PTH PCB Ma</span>nufacturing",
+          "titlePh2":"<span class='yel'>Capabilit</span>ies",
+          "img":"smt-assembly-line.webp",
+          "alt":"SMT assembly line",
+          "app":{
+                "title":"Applications of SMT and PTH Assembly PCBs",
+                "points":[
+                    "● After SMT and THT, PCBs become PCBAs that can be end products when assembled with mechanical boxes",
+                    "● SMT assembly is used to mount SMDs on PCB boards",
+                    "● PTH assembly is used to mount plugin components with long pins",
+                    "● SMT can automatically attach multiple different SMDs to PCBs quickly",
+                    "● SMT and PTH serve for OEM electronics manufacturing in medical, automotive, CE, industrial, aerospace, communication, etc",
+                    "● SMT and PTH also serve for PCBA fabrication for business makers and research"  
+                ]
+            },
+            "carouselList": [
+                {
+                  "id": 1,
+                  "img":"tht-assembly.webp",
+                  "alt":"THT assembly"
+                },
+                {
+                  "id": 2,
+                  "img":"pth-assembly-line.jpg",
+                  "alt":"PTH assembly line"
+                },
+                {
+                  "id": 3,
+                  "img":"pcb-smt-assembly.jpg",
+                  "alt":"PCB SMT assembly"
+                },
+                {
+                  "id": 4,
+                  "img":"pcb-assembly-tht-pcb.jpg",
+                  "alt":"PCB assembly THT PCB"
+                },
+                {
+                  "id": 5,
+                  "img":"oem-smt-and-pth-assembly.jpg",
+                  "alt":"OEM SMT and PTH assembly"
+                }
+                
+              ]
+
+
+           
+        },
+        "ins":
+        {
+
+          
+          "title":"<span class='yel'>PCB Assembly Inspections Capa</span>bilities",
+          "titlePh1":"<span class='yel'>PCB Assembly Ins</span>pections",
+          "titlePh2":"<span class='yel'>Capabilit</span>ies",
+          "img":"pcb-functional-testing.webp",
+          "alt":"PCB assembly functional testing",
+          "app":{
+                "title":"Applications of PCB Assembly Inspections",
+                "points":[
+                    "● PCB assembly inspections are necessary during and after PCBA manufacturing",
+                    "● The AOI happens in PCB fabrication and PCB assembly process to prevent significant defects",
+                    "● The X-ray inspection detects the solder balls at the bottom of BGAs before reflow soldering",
+                    "● The functional test ensures the PCB assemblies play the required functions",
+                    "● The burn-in test simulates the work environment to ensure the product reliability in continuous use",
+                    "● The first article inspection allows you to review the sample test report before bulky production"  
+                ]
+            },
+            "carouselList": [
+                {
+                  "id": 1,
+                  "img":"burn-in-test.jpg",
+                  "alt":"burn-in test"
+                },
+                {
+                  "id": 2,
+                  "img":"x-ray-inspection-pcb-assembly.jpg",
+                  "alt":"X-ray inspection for PCB assembly"
+                },
+                {
+                  "id": 3,
+                  "img":"first-article-inspection.jpg",
+                  "alt":"first article inspection"
+                },
+                {
+                  "id": 4,
+                  "img":"aoi-for-pcb-assembly-inspection.jpg",
+                  "alt":"AOI fo PCB assembly inspection"
+                },
+                {
+                  "id": 5,
+                  "img":"spi-test.jpg",
+                  "alt":"SPI test"
+                }
+                
+              ]
+
+
+           
+        },
+        "fab":
+        {
+
+          
+          "title":"<span class='yel'>One-Stop PCB Manufacturing Capabiliti</span>es",
+          "titlePh1":"<span class='yel'>One-Stop PCB Manufacturi</span>ng",
+          "titlePh2":"<span class='yel'>Capabiliti</span>es",
+          "img":"pcb.jpg",
+          "alt":"PCB",
+          "app":{
+                "title":"Applications of PCB Fabrication from PCBONLINE:",
+                "points":[
+                    "● Original equipment manufacturing, scientific research, maker business, and original design manufacturing for companies, institutes, and makers.",
+                    "● Middle and high-end consumer electronics manufacturing. Our successful examples include false eyelash UV disinfection boxes, Bluetooth earphones, etc.",
+                    "● Computing and communication electronics manufacturing. Our manufacturing examples include web server fabrication for a world-class company.",
+                    "● Military and aerospace electronics manufacturing. Manufacturing examples include military hybrid material Rogers PCBs and aircraft rocket PCBs.",
+                    "● Medical-grade electronics manufacturing. PCB manufacturing examples include double-sided two-layer flexible PCBs for gastroscopy with a 1mm width.",
+                    "● Automotive electronics manufacturing. Manufacturing examples include flexible clear PCBs for car side lights, aluminum PCBs for motorcycles, and lithium-ion battery modules."
+                   
+                ]
+            },
+            "carouselList": [
+                {
+                  "id": 1,
+                  "img":"pcb.webp",
+                  "alt":"PCB"
+                },
+                {
+                  "id": 2,
+                  "img":"rogers-pcb.webp",
+                  "alt":"Rogers PCB"
+                },
+                {
+                  "id": 3,
+                  "img":"printed-circuit-boards.webp",
+                  "alt":"printed circuit boards"
+                },
+                {
+                  "id": 4,
+                  "img":"pcb-manufacturing.webp",
+                  "alt":"PCB manufacturing"
+                },
+                {
+                  "id": 5,
+                  "img":"advanced-pcb.jpg",
+                  "alt":"advanced PCB"
+                }
+                
+              ]
+            }
+        
+       
+
+    
+}
+}    

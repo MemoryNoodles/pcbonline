@@ -1,0 +1,34 @@
+{
+  "flexible": {
+    "title_1": " <span class='yel'>Trustworthy PCB & PC</span>BA -",
+    "title_2": " <span class='yel'>See Our Quality Certifica</span>tes",
+    "icon": [
+      "./img/iso9001.png",
+      "./img/iatf16949.png",
+      "./img/reach.png",
+      "./img/rohs.png",
+      "./img/ul.png"
+    ],
+    "name": [
+      "ISO9001:2015",
+      "IATF 16949:2016",
+      "REACH (EC 1907/2006)",
+      "RoHS (Directive 2002/95/EC)",
+      "UL"
+    ],
+    "desc": [
+      "All our products are ISO 9001 cerfified.",
+      "We have IATF 16949:2016 certification.",
+      "Our factories follow REACH standards and protect human health and the environment.",
+      "We follow RoHS standards and our products can be shipped and used globally.",
+      "Our products have passed the UL certification."
+    ],
+    "route": [
+      "https://www.pcbonline.com/pdf/Certificate/01-pcbonline-jx-ISO9001.pdf",
+      "https://www.pcbonline.com/pdf/Certificate/04-pcbonline-jx-IATF16949.pdf",
+      "https://www.pcbonline.com/pdf/Certificate/05-pcbonline-jx-REACH.pdf",
+      "https://www.pcbonline.com/pdf/Certificate/02-pcbonline-jx-RoHS.pdf",
+      "https://www.pcbonline.com/pdf/Certificate/03-UL-E324220.pdf"
+    ]
+  }
+}
