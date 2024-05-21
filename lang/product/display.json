@@ -272,7 +272,8 @@
         "title":"PCB Fabrication from A to Z All PCB Types from FR4 to the Most Complex",
         "subtitle":"\"One-stop PCB fabrication includes design for manufacturing (DFM), PCB prototypes, testing, and massive production. As a source factory manufacturer, we offer high-quality and affordable PCBs.\"",
         "img":"complex-pcb.webp",
-        "phoneImg":"../_nuxt/assets/img/productPhone/complex-pcb-fabrication.webp",
+        
+        "phoneImg":"complex-pcb-fabrication.webp",
         "alt":"complex PCB fabrication",
         "background":"heavy-copper-pcb-background.jpg"
 

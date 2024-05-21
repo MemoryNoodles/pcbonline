@@ -2,7 +2,7 @@
     "datad":{
                	
         "firsttitle":["PTFE Laminates for High Frequency PCBs"],
-        "subtitle":["Manufacturers",	"Laminate Models",	"TG",	"Dk (1MHz)"	,"CTE (Z-axis)"	],
+        "subtitle":["Manufacturers",	"Laminate Models",	"Dk (1MHz)"	,"CTE (Z-axis) (ppm/°C)"	],
         "cells":[
             {
                   "title":"Rogers",
@@ -10,38 +10,38 @@
                    
                     {
                         "title":"RT5880",
-                        "cells":["N/A","2.20 @ 8 to 40GHz",	"237ppm/°C (IPC TM-650 2.4.24, 0-100°C)"]
+                        "cells":["2.20 @ 8 to 40GHz",	"237 (IPC TM-650 2.4.24, 0-100°C)"]
                     },
                     {
                         "title":"RT5870",
-                        "cells":["N/A",	"2.33 @ 8 to 40GHz",	"173ppm/°C (IPC TM-650 2.4.24, 0-100°C)"],
+                        "cells":[	"2.33 @ 8 to 40GHz",	"173 (IPC TM-650 2.4.24, 0-100°C)"],
                         "sp":1
                     },
                     {
                         "title":"RT6002",
-                        "cells":["N/A",	"2.94 @ 8 to 40GHz",	"24ppm/°C (IPC TM-650 2.4.24, 0-100°C)"]
+                        "cells":[	"2.94 @ 8 to 40GHz",	"24 (IPC TM-650 2.4.24, 0-100°C)"]
                     },
                     {
                         "title":"RT6006",
-                        "cells":["N/A","6.45 @ 8 to 40GHz","34.117ppm/°C (IPC TM-650 2.4.24, 0-100°C)"]
+                        "cells":["6.45 @ 8 to 40GHz","34.117 (IPC TM-650 2.4.24, 0-100°C)"]
                     },
                     {
                         "title":"RT6010LM",
-                        "cells":["N/A",	"10.7 @ 8 to 40GHz",	"24.47ppm/°C (IPC TM-650 2.4.24, 0-100°C)"],
+                        "cells":[	"10.7 @ 8 to 40GHz",	"24.47 (IPC TM-650 2.4.24, 0-100°C)"],
                         "sp":1
                     },
                     {
                         "title":"RO3003",
-                        "cells":["N/A",	"3.00 @ 8 to 40GHz",	"25ppm/°C (IPC TM-650 2.4.24, 0-100°C)"]
+                        "cells":[	"3.00 @ 8 to 40GHz",	"25 (IPC TM-650 2.4.24, 0-100°C)"]
                     },
                     {
                         "title":"RO3006",
-                        "cells":[	"N/A",	"6.5 @ 8 to 40GHz",	"24ppm/°C (IPC TM-650 2.4.24, 0-100°C)"],
+                        "cells":[		"6.5 @ 8 to 40GHz",	"24 (IPC TM-650 2.4.24, 0-100°C)"],
                         "sp":1
                     },
                      {
                         "title":"RO3010",
-                        "cells":["N/A",	"11.2 @ 8 to 40GHz"	,"16ppm/°C (IPC TM-650 2.4.24, 0-100°C)"],
+                        "cells":[	"11.2 @ 8 to 40GHz"	,"16 (IPC TM-650 2.4.24, 0-100°C)"],
                         "sp":1
                     },
                      {
@@ -50,7 +50,7 @@
                     },
                     {
                         "title":"RO3210",
-                        "cells":["N/A",	"10.8 @ 8 to 40GHz",	"34ppm/°C (IPC TM-650 2.4.24, 0-100°C)"]
+                        "cells":[	"10.8 @ 8 to 40GHz",	"34 (IPC TM-650 2.4.24, 0-100°C)"]
                     },
                     {
                         "title":"RO3206",
@@ -78,15 +78,15 @@
                     },
                     {
                         "title":"F4B-2",
-                        "cells":[260," ","25ppm/°C (-55 º～288ºC, ER2.65)"]
+                        "cells":[" ","25 (-55～288ºC, ER2.65)"]
                     },
                     {
                         "title":"TF-1/2",
-                        "cells":[200,"custom from 2.3 to 22 @ 10 GHz","60ppm/°C (-55 º～288ºC)"]
+                        "cells":["custom from 2.3 to 22 @ 10 GHz","60 (-55～288ºC)"]
                     },
                     {
                         "title":"TP-2",
-                        "cells":[150,"custom from 3 to 22 @ 10 GHz","60ppm/°C (-55 º～288ºC)"]
+                        "cells":["custom from 3 to 22 @ 10 GHz","60 (-55～288ºC)"]
                     },
                     {
                         "title":"F4D-2",
@@ -95,6 +95,18 @@
                     {
                         "title":"TP-12",
                         "cells":["Supplier doesn't display the laminate. Contact PCBONLINE to know laminate details."]
+                    },
+                    {
+                        "title":"F4BM",
+                        "cells":["2.55 @ 10GHz",	"240 (IPC TM-650 2.4.24, 0-100°C)"]
+                    },
+                    {
+                        "title":"F4BME",
+                        "cells":["2.55 @ 10GHz",	"240 (IPC TM-650 2.4.24, 0-100°C)"]
+                    },
+                    {
+                        "title":"TP",
+                        "cells":["2.17 @ 10GHz",	"240 (IPC TM-650 2.4.24, 0-100°C)"]
                     }
                    ]
     
@@ -104,18 +116,8 @@
                    "subtitle":[
                    
                     {
-                        "title":"NX9000 series: 9240, 9245, 9250, 9255, 9294...",
-                        "cells":[	"N/A",	"2.40 – 3.20 @ 10 GHz",	"N/A"]
-                    },
-                    {
-                        "title":"NY9000 series: 9208, 9217, 9220, 9233...",
-                        "cells":["N/A",	"2.08 – 2.33 @ 10 GHz",	"N/A"],
-                        "sp":1
-                    },
-                    {
-                        "title":"NH9000 series: 9294, 9300, 9320, 9338, 9348, 9350",
-                        "cells":["N/A",	"2.94 – 4.50 @ 10 GHz",	"N/A"],
-                        "sp":1
+                        "title":"N9000 series",
+                        "cells":[	"2.40 – 3.20 @ 10 GHz",	"N/A"]
                     }
                    ]
     
@@ -125,40 +127,40 @@
                    "subtitle":[
                    
                     {
-                        "title":"TLX series (TLX-0, TLX-9, TLX-8-CL1, TLX-8, TLX-7, TLX-6)",
-                        "cells":["N/A",	"2.45 - 2.65 ± 0.04 @ 10GHz, IPC-650 2.5.5.5",	"215ppm/°C (IPC-650 2.4 .41, 25-260 °C)"]
+                        "title":"TLX series",
+                        "cells":[	"2.45 - 2.65 ± 0.04 @ 10GHz, IPC-650 2.5.5.5",	"215 (IPC-650 2.4 .41, 25-260 °C)"]
                     },
                     {
-                        "title":"TLY series (TLY-3,TLY-5,TLY-5A)",
-                        "cells":["N/A",	"2.17 - 2.33 ± 0.02 @ 10GHz, IPC-650 2.5.5.5","217ppm/°C (IPC-650 2.4 .41, 25-260 °C)"]
+                        "title":"TLY series",
+                        "cells":[	"2.17 - 2.33 ± 0.02 @ 10GHz, IPC-650 2.5.5.5","217 (IPC-650 2.4 .41, 25-260 °C)"]
                     },
                     {
-                        "title":"TLC series (TLC-27, TLC-30,TLC-32)",
-                        "cells":["N/A","2.75, 3.0, 3.2 @ 10GHz, IPC-650 2.5.5.5","70ppm/°C (ASTM D 3386/TMA, 25-100°C)"]
+                        "title":"TLC series",
+                        "cells":["2.75, 3.0, 3.2 @ 10GHz, IPC-650 2.5.5.5","70 (ASTM D 3386/TMA, 25-100°C)"]
                     },
                     {
                         "title":"RF30",
-                        "cells":["N/A","3.00 (1.9GHz)","125ppm/°C (ASTM D 3386/TMA, 25-100°C)"]
+                        "cells":["3.00 (1.9GHz)","125 (ASTM D 3386/TMA, 25-100°C)"]
                     },
                     {
                         "title":"RF-60, RF-60A",
-                        "cells":["N/A","6.15 @ 10GHz, IPC-650 2.5.5.5","69ppm/°C (ASTM D 3386, -30°C to 125°C)"]
+                        "cells":["6.15 @ 10GHz, IPC-650 2.5.5.5","69 (ASTM D 3386, -30°C to 125°C)"]
                     },
                     {
                         "title":"RF-35, RF-35P",
-                        "cells":[	"N/A","3.5 (1.9GHz)","64ppm/°C (ASTM D 3386/TMA, 25-100°C)"]
+                        "cells":[	"3.5 (1.9GHz)","64 (ASTM D 3386/TMA, 25-100°C)"]
                     },
                     {
                         "title":"RF-45, RF-41",
-                        "cells":[	"N/A","4.5, 4.1 (IPC-TM-650 2.5.5.6)","93ppm/°C (IPC-650 2.4.41, >RT -125°C)"]
+                        "cells":[	"4.5, 4.1 (IPC-TM-650 2.5.5.6)","93 (IPC-650 2.4.41, >RT -125°C)"]
                     },
                     {
                         "title":"RF-35A, RF-35A2",
-                        "cells":["N/A","3.5 @ 10GHz, IPC-650 2.5.5.5","108ppm/°C (IPC-650 2.4.41, >RT -125°C)"]
+                        "cells":["3.5 @ 10GHz, IPC-650 2.5.5.5","108 (IPC-650 2.4.41, >RT -125°C)"]
                     },
                     {
                         "title":"TRF-45, TRF-43, TRF-41",
-                        "cells":["N/A","4.3 @ 10GHz, IPC-650 2.5.5.5","40ppm/°C (ASTM D 3386/TMA, 25-100°C)"]
+                        "cells":["4.3 @ 10GHz, IPC-650 2.5.5.5","40 (ASTM D 3386/TMA, 25-100°C)"]
                     },
                     {
                         "title":"TF-2",
@@ -166,27 +168,27 @@
                     },
                     {
                         "title":"RF-35TC",
-                        "cells":["N/A","3.5 @ 10GHz, IPC-650 2.5.5.5","34ppm/°C (IPC-650 2.4.41/ASTM D 3386)"]
+                        "cells":["3.5 @ 10GHz, IPC-650 2.5.5.5","34 (IPC-650 2.4.41/ASTM D 3386)"]
                     },
                     {
-                        "title":"TLT series (TLT-0, TLT-9, TLT-8, TLT-7, TLT-6)",
-                        "cells":["N/A","2.45, 2.50, 2.55, 2.60, 2.65 @ 1MHz, IPC-650 2.5.5.3","215ppm/°C (ASTM D 3386/TMA, 25-100°C)"]
+                        "title":"TLT series",
+                        "cells":["2.45, 2.50, 2.55, 2.60, 2.65 @ 1MHz, IPC-650 2.5.5.3","215 (ASTM D 3386/TMA, 25-100°C)"]
                     },
                     {
-                        "title":"TL series (TL-32,TL-35)",
+                        "title":"TL series",
                         "cells":["Supplier doesn't display the laminate. Contact PCBONLINE to know laminate details."]
                     },
                     {
                         "title":"TLA-6",
-                        "cells":["N/A","2.62 @ 1.9GHz, IPC-650 2.5.5.5.1 Mod.","130-145ppm/°C (ASTM D 3386/TMA, 50-150°C)"]
+                        "cells":["2.62 @ 1.9GHz, IPC-650 2.5.5.5.1 Mod.","130-145 (ASTM D 3386/TMA, 50-150°C)"]
                     },
                     {
                         "title":"TLX-9-0200",
-                        "cells":["N/A","2.5 @ 10GHz, IPC-650 2.5.5.5","215ppm/°C (IPC-650 2.4 .41/ASTM D 3386, 25-260 °C)"]
+                        "cells":["2.5 @ 10GHz, IPC-650 2.5.5.5","215 (IPC-650 2.4 .41/ASTM D 3386, 25-260 °C)"]
                     },
                     {
                         "title":"CER-10",
-                        "cells":["N/A","10 (IPC-TM-650 2.5.5.6)","46ppm/°C (ASTM D 3386/TMA, 25-100°C)"]
+                        "cells":["10 (IPC-TM-650 2.5.5.6)","46 (ASTM D 3386/TMA, 25-100°C)"]
                     },
                     {
                         "title":"TSM-30",
@@ -194,7 +196,7 @@
                     },
                     {
                         "title":"TLF-35",
-                        "cells":["N/A","3.50 @ 1.9GHz, IPC-650 2.5.5.5.1 Mod.","80ppm/°C (IPC-TM 650 2.4.41, 50-150°C)"]
+                        "cells":["3.50 @ 1.9GHz, IPC-650 2.5.5.5.1 Mod.","80 (IPC-TM 650 2.4.41, 50-150°C)"]
                     },
                     {
                         "title":"TLK-8",
@@ -213,42 +215,42 @@
                     },
                     {
                         "title":"DiClad 527",
-                        "cells":["N/A","2.40 to 2.65 @ 1MHz, IPC TM-650 2.5.5.5","173ppm/°C (IPC TM-650 2.4.24, 0-100°C)"]
+                        "cells":["2.40 to 2.65 @ 1MHz, IPC TM-650 2.5.5.5","173 (IPC TM-650 2.4.24, 0-100°C)"]
                        
                     },
                      {
                         "title":"DiClad 870",
-                        "cells":["N/A","2.33 @ 1MHz, IPC TM-650 2.5.5.5","217ppm/°C (IPC TM-650 2.4.24, 0-100°C)"],
+                        "cells":["2.33 @ 1MHz, IPC TM-650 2.5.5.5","217 (IPC TM-650 2.4.24, 0-100°C)"],
                         "sp":1
                     },
                      {
                         "title":"DiClad 880",
-                        "cells":["N/A","2.17, 2.20 @ 1MHz, IPC TM-650 2.5.5.5","252ppm/°C (IPC TM-650 2.4.24, 0-100°C)"],
+                        "cells":["2.17, 2.20 @ 1MHz, IPC TM-650 2.5.5.5","252 (IPC TM-650 2.4.24, 0-100°C)"],
                         "sp":1
                     },
                     {
                         "title":"CuClad 250GT, CuClad 250LX, CuClad 250GX",
-                        "cells":["N/A","2.40 to 2.60 @ 1MHz, IPC TM-650 2.5.5.5","177ppm/°C (IPC TM-650 2.4.24, 0-100°C)"]
+                        "cells":["2.40 to 2.60 @ 1MHz, IPC TM-650 2.5.5.5","177 (IPC TM-650 2.4.24, 0-100°C)"]
                        
                     },
                      {
                         "title":"CuClad 233LX, CuClad 233GY",
-                        "cells":["N/A","2.33 @ 10GHz, IPC TM-650 2.5.5.5","194ppm/°C (IPC TM-650 2.4.24, 0-100°C)"],
+                        "cells":["2.33 @ 10GHz, IPC TM-650 2.5.5.5","194 (IPC TM-650 2.4.24, 0-100°C)"],
                         "sp":1
                     },
                      {
                         "title":"CuClad 217LX, CuClad 217GY",
-                        "cells":["N/A","2.17, 2.20 @ 10GHz, IPC TM-650 2.5.5.5","246ppm/°C (IPC TM-650 2.4.24, 0-100°C)"],
+                        "cells":["2.17, 2.20 @ 10GHz, IPC TM-650 2.5.5.5","246 (IPC TM-650 2.4.24, 0-100°C)"],
                         "sp":1
                     },
                      {
                         "title":"IsoClad 933",
-                        "cells":["N/A","2.33 @ 10GHz, IPC TM-650 2.5.5.5","203ppm/°C (IPC TM-650 2.4.24, 0-100°C)"]
+                        "cells":["2.33 @ 10GHz, IPC TM-650 2.5.5.5","203 (IPC TM-650 2.4.24, 0-100°C)"]
                         
                     },
                      {
                         "title":"IsoClad 917",
-                        "cells":["N/A","2.17, 2.20 @ 10GHz, IPC TM-650 2.5.5.5","236ppm/°C (IPC TM-650 2.4.24, 0-100°C)"],
+                        "cells":["2.17, 2.20 @ 10GHz, IPC TM-650 2.5.5.5","236 (IPC TM-650 2.4.24, 0-100°C)"],
                         "sp":1
                     },
                      {
@@ -259,11 +261,11 @@
     
                     {
                         "title":"AD255C",
-                        "cells":["N/A","2.55 @ 10GHz, IPC TM-650 2.5.5.5","196ppm/°C (IPC TM-650 2.4.41, -50 to 288°C)"]
+                        "cells":["2.55 @ 10GHz, IPC TM-650 2.5.5.5","196 (IPC TM-650 2.4.41, -50 to 288°C)"]
                     },
                     {
                         "title":"AD350A",
-                        "cells":["N/A","3.54 @ 10GHz, IPC TM-650 2.5.5.5","63ppm/°C (IPC TM-650 2.4.24, -55 to 288°C)"],
+                        "cells":["3.54 @ 10GHz, IPC TM-650 2.5.5.5","63 (IPC TM-650 2.4.24, -55 to 288°C)"],
                         "sp":1
                     },
                     {
@@ -284,7 +286,7 @@
                     },
                     {
                         "title":"AD1000",
-                        "cells":["N/A","10.2 @ 10GHz, IPC TM-650 2.5.5.5","20ppm/°C (IPC TM-650 2.4.24, 50-150°C)"]
+                        "cells":["10.2 @ 10GHz, IPC TM-650 2.5.5.5","20 (IPC TM-650 2.4.24, 50-150°C)"]
                     },
                     {
                         "title":"AD10",
@@ -296,12 +298,12 @@
                     },
                     {
                         "title":"CLTE",
-                        "cells":["N/A","2.98 @ 10GHz, IPC TM-650 2.5.5.5","57.9ppm/°C (IPC TM-650 2.4.41, -55 to 288°C)"]
+                        "cells":["2.98 @ 10GHz, IPC TM-650 2.5.5.5","57.9 (IPC TM-650 2.4.41, -55 to 288°C)"]
                         
                     },
                     {
                         "title":"CLTE-XT",
-                        "cells":["N/A","2.94 @ 10GHz, IPC TM-650 2.5.5.5","40.8ppm/°C (IPC TM-650 2.4.41, -55 to 288°C)"],
+                        "cells":["2.94 @ 10GHz, IPC TM-650 2.5.5.5","40.8 (IPC TM-650 2.4.41, -55 to 288°C)"],
                         "sp":1
                     },
                     {
@@ -310,7 +312,7 @@
                     },
                     {
                         "title":"TC350",
-                        "cells":["N/A","3.50 @ 10GHz, IPC TM-650 2.5.5.5","23ppm/°C (IPC TM-650 2.4.24, 50-150°C)"]
+                        "cells":["3.50 @ 10GHz, IPC TM-650 2.5.5.5","23 (IPC TM-650 2.4.24, 50-150°C)"]
                     },
                     {
                         "title":"EP-2",
@@ -318,7 +320,7 @@
                     },
                     {
                         "title":"TC600",
-                        "cells":["N/A","6.15 @ 10GHz, IPC TM-650 2.5.5.5","35ppm/°C (IPC TM-650 2.4.24, 50-150°C)"]
+                        "cells":["6.15 @ 10GHz, IPC TM-650 2.5.5.5","35 (IPC TM-650 2.4.24, 50-150°C)"]
                     }
                    ]
     
